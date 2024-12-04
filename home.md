@@ -7,8 +7,8 @@ I have never yet found a full mechanical engineering degree online, complete & w
 The more I learn about engineers in society, it seems their strongest hesitations to make improvements relate to the fear of messing up.  But I messed up a lot.  So, perhaps this repository can stand as encouragement.  I earned summa cum laude but at the time it did not seem like I was good enough.  It came as a surprise with the final GPA and it almost felt like some professors had maybe bumped up my grades due to effort.  I might never know.  But effort is important.
 
 ## Course Binders
-* [ME219 Thermodynamics Binder](docs/ME219 Thermo Binder.pdf)
-* [ME219 Thermodynamics Notes](docs/ME219 Thermo Notes.pdf)
+* [ME219 Thermodynamics Binder](docs/ME219_Thermo_Binder.pdf)
+* [ME219 Thermodynamics Notes](docs/ME219_Thermo_Notes.pdf)
 * uploads in progress for the rest of the degree...
 
 ## Course handouts
