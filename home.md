@@ -1,3 +1,6 @@
+# open mechanical engineering
+_mechanical engineering curriculum, free & open source_
+
 ##  About
 
 This repository is for a full, unmodified, uncut mechanical engineering degree with exams, homeworks, projects, and ABET accreditation.
