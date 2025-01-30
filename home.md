@@ -1,6 +1,6 @@
 ##  About
 
-This repository is for a full, unedited, uncut mechanical engineering degree with exams, homeworks, projects, and ABET accreditation.
+This repository is for a full, unmodified, uncut mechanical engineering degree with exams, homeworks, projects, and ABET accreditation.
 
 I have never yet found a full mechanical engineering degree online, complete & worked out by a human being, with all mistakes etc.  It just seems it ought to exist.  Hope this can be made useful.
 
@@ -16,3 +16,7 @@ section for handouts.
 
 ## Course Exams
 Section for exams, or this may go back into the binders when the PDFs are settled.
+
+# ME240 Instrumentation
+Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
+* Get [instrumentation slides, 42mb, 13 lessons](https://lobfile.com/file/SQ8Dhsza.zip)
