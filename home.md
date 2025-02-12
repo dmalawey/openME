@@ -11,11 +11,19 @@ The more I learn about engineers in society, it seems their strongest hesitation
 
 ## Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
+
+![thermo snippet](img/course_me219.jpg)
+
+Get the binders for thermodynamics here:
 * [ME219 Thermodynamics Binder](docs/ME219_Thermo_Binder.pdf) 
 * [ME219 Thermodynamics Notes](docs/ME219_Thermo_Notes.pdf)
 
 ## Mechanics of Materials
 Mechanics of Materials applies physics to physical materials.  Deformation, bending, loads, strain, yield strength, elastic modulus, are concepts put to work in Mechanics of Materials.
+
+![mechmat snippet](img/course_ide120.jpg)
+
+Download the labs for mechanics of materials here:
 * [IDE120 Lab Reports](docs/IDE120_labs.pdf)
 
 ## Course handouts
