@@ -26,11 +26,16 @@ Mechanics of Materials applies physics to physical materials.  Deformation, bend
 Download the labs for mechanics of materials here:
 * [IDE120 Lab Reports](docs/IDE120_labs.pdf)
 
-## Course handouts
-section for handouts.
+## Dynamics
+Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.
 
-## Course Exams
-Section for exams, or this may go back into the binders when the PDFs are settled.
+Download the binders for dynamics here:
+* [ME160 BINDER](docs/ME160_Dynamics_Binder.pdf)
+* [ME160 NOTES](docs/ME160_Dynamics_Notes.pdf)
+
+Thumbnails for Dynamics content
+- ![me160 thumbnail](img/img_dynamics1.jpg)
+- ![me160 thumbnail](img/img_dynamics2.jpg)
 
 # ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
