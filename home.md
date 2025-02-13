@@ -34,8 +34,8 @@ Download the binders for dynamics here:
 * [ME160 NOTES](docs/ME160_Dynamics_Notes.pdf)
 
 Thumbnails for Dynamics content
-- ![me160 thumbnail](img/img_dynamics1.jpg)
-- ![me160 thumbnail](img/img_dynamics2.jpg)
+- ![me160 thumbnail](img/course_dynamics1.jpg)
+- ![me160 thumbnail](img/course_dynamics2.jpg)
 
 # ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
