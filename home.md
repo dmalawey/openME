@@ -1,4 +1,4 @@
-# open mechanical engineering
+# Open Mechanical Engineering
 _mechanical engineering curriculum, free & open source_
 
 ##  About
