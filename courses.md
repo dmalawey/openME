@@ -3,19 +3,14 @@ Mechanical Engineering Courses, organized by course curriculums.
 
 _note: engineering knowledge is not fundamentally divided into these topics such as statics and dynamics. But in education and science, we assign these categories of engineering topics that are fairly recognized around the world.  Each individual course may also correspond to a specialty that characterizes an entire lifelong career of an expert in the field._
 
+## Outline
 ![courses summary image](img/img_degreePlan.jpg)
 _snapshot of the degree plan for mechanical engineer_
 
-## Thermodynamics
-Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
+Download the PDF course outline. (as of Feb 2025, just 1 page) This is a placeholder for a more thorough document that explains a bit about syllabi of each course, together with the degree plan.
+* [Mechanical Degree Plan PDF](docs/2008_ME_degreePlan.pdf)
 
-![thermo snippet](img/course_me219.jpg)
-
-Get the binders for thermodynamics here:
-* [ME219 Thermodynamics Binder](docs/ME219_Thermo_Binder.pdf) 
-* [ME219 Thermodynamics Notes](docs/ME219_Thermo_Notes.pdf)
-
-## Mechanics of Materials
+## IDE110-Mechanics of Materials
 Mechanics of Materials applies physics to physical materials.  Deformation, bending, loads, strain, yield strength, elastic modulus, are concepts put to work in Mechanics of Materials.
 
 ![mechmat snippet](img/course_ide120.jpg)
@@ -23,7 +18,7 @@ Mechanics of Materials applies physics to physical materials.  Deformation, bend
 Download the labs for mechanics of materials here:
 * [IDE120 Lab Reports](docs/IDE120_labs.pdf)
 
-## Dynamics
+## ME160-Dynamics
 Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.
 
 Download the binders for dynamics here:
@@ -33,6 +28,15 @@ Download the binders for dynamics here:
 Thumbnails for Dynamics content
 - ![me160 thumbnail](img/course_dynamics1.jpg)
 - ![me160 thumbnail](img/course_dynamics2.jpg)
+
+## ME219-Thermodynamics
+Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
+
+![thermo snippet](img/course_me219.jpg)
+
+Get the binders for thermodynamics here:
+* [ME219 Thermodynamics Binder](docs/ME219_Thermo_Binder.pdf) 
+* [ME219 Thermodynamics Notes](docs/ME219_Thermo_Notes.pdf)
 
 # ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
