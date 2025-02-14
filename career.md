@@ -1,0 +1,7 @@
+## About
+This section is for engineering topics outside of school.  Career is the best word I can use for right now.  Perhaps it will include internships, projects, and extracurricular team efforts that center on engineering.  If I were to give guidance to an aspiring engineer, such guidance would be incomplete without these discussions.  So, expect to find contents about jobs and also things that are not jobs but essential pieces of an engineering career.
+
+## Automotive
+Automotive study, for a mechanical engineer or others who love car design.  Download my binder from 2009.
+
+* [automotive study binder PDF](docs/2009_Automotive_Binder.pdf)
