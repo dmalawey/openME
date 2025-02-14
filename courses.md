@@ -3,6 +3,9 @@ Mechanical Engineering Courses, organized by course curriculums.
 
 _note: engineering knowledge is not fundamentally divided into these topics such as statics and dynamics. But in education and science, we assign these categories of engineering topics that are fairly recognized around the world.  Each individual course may also correspond to a specialty that characterizes an entire lifelong career of an expert in the field._
 
+![courses summary image](img/img_degreePlan.jpg)
+_snapshot of the degree plan for mechanical engineer_
+
 ## Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
 
