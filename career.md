@@ -6,6 +6,8 @@ Automotive study, for a mechanical engineer or others who love car design.  Down
 
 * [automotive study binder PDF](docs/2009_Automotive_Binder.pdf)
 
+![automotive binder preview](img/img_autoStudy.jpg)
+
 ## Best Practices
 A section for best practices collected from world-class engineering teams.  Timeless is the key.  These items may look old and its because they have worked for decades and have not expired.
 
