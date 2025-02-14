@@ -1,4 +1,5 @@
 # openmeproject
 * [home](home)
-* [automobiles](auto)
+* [courses](courses)
+* [career](career)
 * [future](roadmap)
