@@ -4,7 +4,7 @@ This section is for engineering topics outside of school.  Career is the best wo
 ## Automotive
 Automotive study, for a mechanical engineer or others who love car design.  Download my binder from 2009.
 
-* [automotive study binder PDF](docs/2009_Automotive_Binder.pdf)
+* [automotive study binder PDF](/docs/2009_Automotive_Binder.pdf)
 
 ![automotive binder preview](img/img_autoStudy.jpg)
 
