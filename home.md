@@ -13,6 +13,6 @@ The more I learn about engineers in society, it seems their strongest hesitation
 
 Here is a snapshot of a mechanical engineering 4-year degree, with the list of courses taken.  These courses may vary by institution, but around the world the ME degree is fairly standard and this snapshot is a decent representation.
 
-[Download the pdf outline](https://githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
+[Download the pdf outline](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
 
 ![degree plan](img/img_degreePlan.jpg)
