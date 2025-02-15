@@ -1,2 +1,2 @@
-* [home](home)
-* [github](https://github.com/dmalawey/openME)
+* [OpenME-Home](home)
+* [Github-Repo](https://github.com/dmalawey/openME)
