@@ -4,7 +4,7 @@ This section is for engineering topics outside of school.  Career is the best wo
 ## Automotive
 Automotive study, for a mechanical engineer or others who love car design.  Download my binder from 2009.
 
-* [automotive study binder PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2009_Automotive_Binder.pdf)
+* [Automotive Study Binder PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2009_Automotive_Binder.pdf)
 
 ![automotive binder preview](img/img_autoStudy.jpg)
 
@@ -13,4 +13,4 @@ A section for best practices collected from world-class engineering teams.  Time
 
 ### Problem Solving
 Toyota Business Practice is focused on engineering, and engineering is focused on problem-solving.  Toyota has refined methodologies for breaking down problems and solving them.  This guide is followed by the engineers at Toyota worldwide.
-* [problem solving guide PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
+* [Toyota Problem Solving Guide PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
