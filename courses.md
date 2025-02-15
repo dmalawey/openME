@@ -8,7 +8,7 @@ _note: engineering knowledge is not fundamentally divided into these topics such
 _snapshot of the degree plan for mechanical engineer_
 
 Download the PDF course outline. (as of Feb 2025, just 1 page) This is a placeholder for a more thorough document that explains a bit about syllabi of each course, together with the degree plan.
-* [Mechanical Degree Plan PDF](https://dmalawey.github.io/openME/main/docs/2008_ME_degreePlan.pdf)
+* [Mechanical Degree Plan PDF](https://githubusercontent.com/dmalawey/openME/main/docs/2008_ME_degreePlan.pdf)
 
 ## IDE110-Mechanics of Materials
 Mechanics of Materials applies physics to physical materials.  Deformation, bending, loads, strain, yield strength, elastic modulus, are concepts put to work in Mechanics of Materials.
@@ -16,14 +16,14 @@ Mechanics of Materials applies physics to physical materials.  Deformation, bend
 ![mechmat snippet](img/course_ide120.jpg)
 
 Download the labs for mechanics of materials here:
-* [IDE120 Lab Reports](https://dmalawey.github.io/openME/main/docs/IDE120_labs.pdf)
+* [IDE120 Lab Reports](https://githubusercontent.com/dmalawey/openME/main/docs/IDE120_labs.pdf)
 
 ## ME160-Dynamics
 Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.
 
 Download the binders for dynamics here:
-* [ME160 BINDER](https://dmalawey.github.io/openME/main/docs/ME160_Dynamics_Binder.pdf)
-* [ME160 NOTES](https://dmalawey.github.io/openME/main/docs/ME160_Dynamics_Notes.pdf)
+* [ME160 BINDER](https://githubusercontent.com/dmalawey/openME/main/docs/ME160_Dynamics_Binder.pdf)
+* [ME160 NOTES](https://githubusercontent.com/dmalawey/openME/main/docs/ME160_Dynamics_Notes.pdf)
 
 Thumbnails for Dynamics content
 - ![me160 thumbnail](img/course_dynamics1.jpg)
@@ -35,8 +35,8 @@ Thermodynamics is about energy.  We use thermo to measure, compute, control the 
 ![thermo snippet](img/course_me219.jpg)
 
 Get the binders for thermodynamics here:
-* [ME219 Thermodynamics Binder](https://dmalawey.github.io/openME/main/docs/ME219_Thermo_Binder.pdf) 
-* [ME219 Thermodynamics Notes](https://dmalawey.github.io/openME/main/docs/ME219_Thermo_Notes.pdf)
+* [ME219 Thermodynamics Binder](https://githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Binder.pdf) 
+* [ME219 Thermodynamics Notes](https://githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Notes.pdf)
 
 # ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
