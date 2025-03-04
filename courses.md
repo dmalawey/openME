@@ -19,6 +19,14 @@ Download the labs for mechanics of materials here:
 * [IDE110 Notebook](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE110_Mechanics_Notes.pdf)
 * [IDE120 Lab Reports](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE120_labs.pdf)
 
+## ME50-Statics
+Statics applies physics of forces, mass, friction, and geometry to physical designs to evaluate static forces (non-moving).  It is the key principal for structures and also for dynamic items during their static states, like a parked car. This course was actually called IDE50, in interdisciplinary department because it serves all engineering majors. 
+
+Download Statics Content
+* [IDE50 Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE50_StaticsBinder.pdf)
+* [IDE50 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE50_StaticsNotes.pdf)
+
+![statics preview image](img/course_ide50.jpg)
 
 ## ME160-Dynamics
 Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.
