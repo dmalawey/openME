@@ -39,6 +39,17 @@ Thumbnails for Dynamics content
 - ![me160 thumbnail](img/course_dynamics1.jpg)
 - ![me160 thumbnail](img/course_dynamics2.jpg)
 
+## ME208-Machine_Design
+Machine Design is an application of prerequisite topics like statics, free body motion, and heavy geometry, towards assemblies that put the physics to work.
+
+Download the binders for machine design here:
+* [ME160 BINDER](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_binder.pdf)
+* [ME160 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_notes.pdf)
+
+Thumbnails for Machine Design content:
+-![course for machine design img1](img/course_machinedesign1.jpg)
+-![course for machine design img2](img/course_machinedesign2.jpg)
+
 ## ME219-Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
 
