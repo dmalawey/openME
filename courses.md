@@ -19,6 +19,14 @@ Download the labs for mechanics of materials here:
 * [IDE110 Notebook](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE110_Mechanics_Notes.pdf)
 * [IDE120 Lab Reports](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE120_labs.pdf)
 
+## MATH210-Calculus
+The binder covers Calculus I, II, and III.  In reality, my math courses were complete chaos.  Back in high school, I missed out on calculus and took some hands-on electives instead, like pottery. Ultimately I enrolled at 3 different college campuses to catch up.   I wish my advisor would have urged me to enroll in calculus at the time I informed her I wished to become an engineer.  So in the summer after freshman year of college, I took calc-1 at saint louis community college back home, while working my lawncare business for cash.  Then during sophomore year, I took accelerated calc 2 and calc3 at the community college, which were compressed into 10 weeks each instead of an ordinary 5-month semester.  I became progressively more confused in each course, with a miserably dull & heartless professor about age 99.  It was solid 3-hour lectures starting at 7pm, and I wore out pencils scribbling away to keep pace with the whiteboard in hopes to study after class.  Everything moved way too fast as I tried to catch up my math to the pace of the ME degree.  (calc II is a prerequisite for almost all core courses).  By graduation, I couldn't even tell you which topics belong in which calculus course.  It was all a total blurr.
+
+Download Calculus I, II, III binder
+* [MATH210 Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/MATH210_calculus_binder.pdf)
+
+![math outline image](img/course_math210.jpg)
+
 ## ME50-Statics
 Statics applies physics of forces, mass, friction, and geometry to physical designs to evaluate static forces (non-moving).  It is the key principal for structures and also for dynamic items during their static states, like a parked car. This course was actually called IDE50, in interdisciplinary department because it serves all engineering majors. 
 
