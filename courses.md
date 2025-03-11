@@ -13,7 +13,8 @@ Download the PDF course outline. (as of Feb 2025, just 1 page) This is a placeho
 ## IDE110-Mechanics of Materials
 Mechanics of Materials applies physics to physical materials.  Deformation, bending, loads, strain, yield strength, elastic modulus, are concepts put to work in Mechanics of Materials.  IDE stands for interdisciplinary engineering, and this course is assigned to IDE because several curriculums stand on mechanics, such as Structural Engineering, Mechanical Engineering, Aerospace Engineering, Civil Engineering, and so-on.  IDE110 was the course title (with 3 credit hours) and IDE120 was the lab title (an additional 1 or 2 credit hours, with one long meeting per week and a report following).
 
-![mechmat snippet](img/course_ide120.jpg)
+- ![mech mat lecture outline](img/course_ide110.jpg)
+- ![mechmat snippet](img/course_ide120.jpg)
 
 Download the labs for mechanics of materials here:
 * [IDE110 Notebook](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE110_Mechanics_Notes.pdf)
