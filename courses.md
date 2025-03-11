@@ -1,4 +1,3 @@
-# Courses
 Mechanical Engineering Courses, organized by course curriculums.
 
 _note: engineering knowledge is not fundamentally divided into these topics such as statics and dynamics. But in education and science, we assign these categories of engineering topics that are fairly recognized around the world.  Each individual course may also correspond to a specialty that characterizes an entire lifelong career of an expert in the field._
@@ -79,7 +78,7 @@ Download PDFs for Applied Thermo
 ![image for applied thermo](img/course_appliedThermo.jpg)
 
 
-# ME240 Instrumentation
+## ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
 * Get [instrumentation slides, 42mb, 13 lessons](https://lobfile.com/file/SQ8Dhsza.zip)
 
