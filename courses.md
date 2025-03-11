@@ -68,6 +68,17 @@ Get the binders for thermodynamics here:
 * [ME219 Thermodynamics Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Binder.pdf) 
 * [ME219 Thermodynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Notes.pdf)
 
+## ME221-Applied-Thermo
+Applied thermo, for mechanical engineers, is where we learn how a combustion engine works, at last.  It covers the energy movement and theoretical limits of real-world engine designs based on the energy inputs and outputs plus the processes being performed in the cycle.  If you have heard of a Stirling cycle, Rankine cycle, or Diesel cycle, these originated with the theory of thermodynamics applied to combustion cycles in order to collect energy, torque, and efficiency out of real machines.  I did not love this course as much as I anticipated all my life, mostly because it was incredibly hard but it does feel great to know the physical rules that engines follow, anywhere in the universe.   The binder is broken into 2 parts to keep the PDF's under 25MB, and store locally on github.
+
+Download PDFs for Applied Thermo
+* [ME221 Applied Thermodynamics Binder1](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME221_applied_thermo_binder1.pdf)
+* [ME221 Applied Thermodynamics Binder2](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME221_applied_thermo_binder2.pdf) 
+* [ME221 Applied Thermodynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME221_applied_thermo_notes.pdf)
+
+![image for applied thermo](img/course_appliedThermo.jpg)
+
+
 # ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
 * Get [instrumentation slides, 42mb, 13 lessons](https://lobfile.com/file/SQ8Dhsza.zip)
