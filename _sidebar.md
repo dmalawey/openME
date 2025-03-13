@@ -1,4 +1,5 @@
 * [home](home)
 * [courses](courses)
+* [masters](masters)
 * [career](career)
 * [future](roadmap)
