@@ -84,6 +84,14 @@ Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a
 
 ![instrumentation image](img/course_instrumentation.jpg)
 
+## ME231-Fluids
+Fluids, short for "thermofluid mechanics" introduces the formulas we use to estimate pressures and flows, and energy movement in flowing fluid systems.  Fluids covers enclosed systems like pipes, as well as open systems like an airfoil.  (an airfoil is just a fancy word for the wing of an airplane or the blade of a propeller.)  Fluids is one of the most abstracted and challenging courses from my undergrad degree, mainly because fluids are highly unconstrained and chaotic.  This leads to engineering calculations that are largely estimates rather than concrete results, as one finds in kinematics or dynamics (where notably, the materials are estimated as point-masses).  Fluids not only covers movement of fluid but also movement of heat, which can easily cause a fluid to change volume, speed, direction, and so on.  When fluids are compressible such as air, they are treated with one set of strategies.  Incompressible fluids like water are treated differently, and mixed fluids are just difficult.  Many engineers have earned their PhDs with their entire body of research dedicated to measuring fluids.  Perhaps the best takeaway from this course is to get an understanding of what assumptions can be safely made in various fluid-dynamics problems we face.  With those assumptions we can simplify the problem, plug in a formula, and get a meaningful result.
+
+* [fluids binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME231_FluidsBinder.pdf)
+* (fluids notebook coming soon)
+
+![table of variables for fluids course](img/course_fluids.jpg)
+
 ## EE281-Circuits
 Circuits is an electrical engineering course, required for Mechanical Engineers (and most other engineering degrees since 2000) to offer a foundation of electrical engineering knowledge.  The concepts cover evaluation and design of electrical circuits with resistors, capacitors, and inductors.  Every electrical element can be characterized with those 3 characteristics.  With this course, you can measure the current through a circuit or branch, the power consumed by a load, the energy stored in capacitors or inductors.  We also cover AC circuit basics (alternating current), and the dynamic behaviors at an introductory level.  Compared to my peers who took an Electrical Engineering degree program, this is about half of the level of depth studied for the bachelors in EE.
 
