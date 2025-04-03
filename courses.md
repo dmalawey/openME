@@ -89,3 +89,5 @@ Circuits is an electrical engineering course, required for Mechanical Engineers 
 
 *[EE281 Circuits Binder][https://raw.githubusercontent.com/dmalawey/openME/main/docs/EE281_CircuitsBinder.pdf)
 *[EE281 Circuits Practice](https://raw.githubusercontent.com/dmalawey/openME/main/docs/EE281_CircuitsPractice.pdf)
+
+![circuits snippet](img/course_circuits.jpg)
