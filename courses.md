@@ -83,3 +83,9 @@ Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a
 * Get [instrumentation slides, 42mb, 13 lessons](https://lobfile.com/file/SQ8Dhsza.zip)
 
 ![instrumentation image](img/course_instrumentation.jpg)
+
+## EE281 Circuits
+Circuits is an electrical engineering course, required for Mechanical Engineers (and most other engineering degrees since 2000) to offer a foundation of electrical engineering knowledge.  The concepts cover evaluation and design of electrical circuits with resistors, capacitors, and inductors.  Every electrical element can be characterized with those 3 characteristics.  With this course, you can measure the current through a circuit or branch, the power consumed by a load, the energy stored in capacitors or inductors.  We also cover AC circuit basics (alternating current), and the dynamic behaviors at an introductory level.  Compared to my peers who took an Electrical Engineering degree program, this is about half of the level of depth studied for the bachelors in EE.
+
+*[EE281 Circuits Binder][https://raw.githubusercontent.com/dmalawey/openME/main/docs/EE281_CircuitsBinder.pdf)
+*[EE281 Circuits Practice](https://raw.githubusercontent.com/dmalawey/openME/main/docs/EE281_CircuitsPractice.pdf)
