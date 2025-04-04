@@ -18,9 +18,9 @@ Lenonardo Davinci was a mechanical engineer among other things.  This webpage ha
 
 ► [Davinci's inventions PDF](https://lobfile.com/file/U7LRr5QU.pdf)
 
-- ![davinci image 1](/img/img_davinci1.jpg)
-- ![davinci image 2](/img/img_davinci2.jpg)
-- ![davinci image 3](/img/img_davinci3.jpg)
+- ![davinci image 1](img/img_davinci1.jpg)
+- ![davinci image 2](img/img_davinci2.jpg)
+- ![davinci image 3](img/img_davinci3.jpg)
 
 ## Outline
 
@@ -28,9 +28,9 @@ Here is a snapshot of a mechanical engineering 4-year degree, with the list of c
 
 [Download the pdf outline](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
 
-- ![degree plan subjects](img/img_subjects1.jpg)
-- ![degree plan subjects](img/img_subjects2.jpg)
-- ![degree plan](img/img_degreePlan.jpg)
+- ![degree plan diagram](img/img_subjects1.jpg)
+- ![degree plan diagram2](img/img_subjects2.jpg)
+- ![degree plan snippet](img/img_degreePlan.jpg)
   
 ## More-Projects
 
