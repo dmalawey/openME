@@ -26,7 +26,7 @@ Lenonardo Davinci was a mechanical engineer among other things.  This webpage ha
 
 Here is a snapshot of a mechanical engineering 4-year degree, with the list of courses taken.  These courses may vary by institution, but around the world the ME degree is fairly standard and this snapshot is a decent representation.
 
-[Download the pdf outline](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
+► [Download the pdf outline](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
 
 ![main subjects diagram](img/img_subjects1.1.jpg)
 
@@ -38,8 +38,8 @@ Here is a snapshot of a mechanical engineering 4-year degree, with the list of c
 
 Find more open source designs & educational content in the table below 🙂
 
-| Project | Link | Purpose | 
-| ------- | ---- | ------- | 
+| Project | Link | Purpose |
+| ------- | ---- | ------- |
 | OpenAir | qr.net/openairproject | take control of air, pressure, & flow with open elements | 
 | OpenArm | qr.net/openarmproject | revolutionize robotic arms, a 10-year goal | 
 | OpenBox | qr.net/openboxproject | array of open designs beginning with a steel box | 
