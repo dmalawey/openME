@@ -1,9 +1,9 @@
-**Open Mechanical Engineering**
+##  About
+
+**Open Mechanical Engineering:**
 _mechanical engineering curriculum, free & open source_
 
 ![banner image](img/img_banner.jpg)
-
-##  About
 
 Explore this repository to learn mechanical engineering.  During 2025 I'll upload a full, unmodified, uncut mechanical engineering degree with exams, homeworks, projects, and ABET accreditation.
 
