@@ -18,7 +18,9 @@ Lenonardo Davinci was a mechanical engineer among other things.  This webpage ha
 
 ► [Davinci's inventions PDF](https://lobfile.com/file/U7LRr5QU.pdf)
 
-![davincis inventions image](/img/img_davinciInventions.jpg)
+- ![davinci image 1](/img/img_davinci1.jpg)
+- ![davinci image 2](/img/img_davinci2.jpg)
+- ![davinci image 3](/img/img_davinci3.jpg)
 
 ## Outline
 
