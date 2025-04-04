@@ -1,4 +1,4 @@
-Mechanical Engineering Courses, organized by course curriculums.
+**Courses:** Mechanical Engineering Courses, organized by course curriculums.
 
 _note: engineering knowledge is not fundamentally divided into these topics such as statics and dynamics. But in education and science, we assign these categories of engineering topics that are fairly recognized around the world.  Each individual course may also correspond to a specialty that characterizes an entire lifelong career of an expert in the field._
 
