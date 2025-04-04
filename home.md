@@ -26,8 +26,10 @@ Here is a snapshot of a mechanical engineering 4-year degree, with the list of c
 
 [Download the pdf outline](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2014_toyotaProblemSolving.pdf)
 
-![degree plan](img/img_degreePlan.jpg)
-
+- ![degree plan subjects](img/img_subjects1.jpg)
+- ![degree plan subjects](img/img_subjects2.jpg)
+- ![degree plan](img/img_degreePlan.jpg)
+  
 ## More-Projects
 
 Find more open source designs & educational content in the table below ☺
