@@ -5,4 +5,4 @@ _a brief intro for the purpose of this page: I'd like to share some info that do
 _Keywords: design purity, simple, root, foundation, economy, entrepreneur, design strategy, long-term_
 
 * This paper titled "inevitable designs" is a discussion intended to separate true value of a design from the transient world of economics, demands, styles, and cultural impacts on what we perceive as valuable.  For me, it is a guiding arrangement of principles that helps to make decisions about how to prioritize design plans.
-* [Inevitable Designs PDF, 200kB](docs/Inevitable_Designs.pdf)
+* [Inevitable Designs PDF, 200kB](docs/2024_Inevitable_Designs.pdf)
