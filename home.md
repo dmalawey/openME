@@ -40,15 +40,12 @@ Find more open source designs & educational content in the table below 🙂
 
 | Project | Link | Purpose |
 | ------- | ---- | ------- |
-| OpenAir | qr.net/openairproject | take control of air, pressure, & flow with open elements | 
-| OpenArm | qr.net/openarmproject | revolutionize robotic arms, a 10-year goal | 
-| OpenBox | qr.net/openboxproject | array of open designs beginning with a steel box | 
-| OpenGrow | qr.net/opengrowproject | open designs for hydroponics & aquaponics systems | 
-| OpenJar | qr.net/openjarproject | array of designs for standard jars, threads, & seals | 
-| OpenLab | qr.net/openlabproject | build a laboratory to design & fabricate anything. |
-| openME  | qr.net/openmeproject  | full mechanical engineering degree, online for free | 
-| OpenSpin | qr.net/openspinproject | array of designs based on parametric bearings | 
-| SCUTTLE_Nigeria | qr.net/scuttleafrica | university-level robotics lab in Lagos, Nigeria |
-
-
-![image](https://github.com/user-attachments/assets/e4d04743-5e4c-48f7-a0f3-ab37fc1a2651)
+| OpenAir | [qr.net/openairproject](https://qr.net/openairproject) | take control of air, pressure, & flow with open elements | 
+| OpenArm | [qr.net/openarmproject](https://qr.net/openarmproject) | revolutionize robotic arms, a 10-year goal | 
+| OpenBox | [qr.net/openboxproject](https://qr.net/openboxproject) | array of open designs beginning with a steel box | 
+| OpenGrow | [qr.net/opengrowproject](https://qr.net/opengrowproject) | open designs for hydroponics & aquaponics systems | 
+| OpenJar | [qr.net/openjarproject](https://qr.net/openjarproject) | array of designs for standard jars, threads, & seals | 
+| OpenLab | [qr.net/openlabproject](https://qr.net/openlabproject) | build a laboratory to design & fabricate anything. |
+| OpenME  | [qr.net/openmeproject](https://qr.net/openmeproject)  | full mechanical engineering degree, online for free | 
+| OpenSpin | [qr.net/openspinproject](https://qr.net/openspinproject) | array of designs based on parametric bearings | 
+| SCUTTLE_Nigeria | [qr.net/scuttleafrica](https://qr.net/scuttleafrica) | university-level robotics lab in Lagos, Nigeria |
