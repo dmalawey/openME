@@ -58,6 +58,16 @@ Thumbnails for Machine Design content:
 -![course for machine design img1](img/course_machinedesign1.jpg)
 -![course for machine design img2](img/course_machinedesign2.jpg)
 
+## ME211-Linear-Systems
+This course as a precursor to control of dynamic systems.  It's full title could be _modeling and analysis of dynamic linear systems_ wherein we take a machine (or theoretical machine), isolate a moving subsystem.  That moving system consists of nothing more than spring + mass + damper, or for electrical systems it is resistance, capacitance, and inductance.  Now the system is mathematically described, and then we have a model.  From the math model, we can derive some basic characteristics such as the frequency of oscillations, and a few more key metrics.  Further analysis can be made from that set of equations to ask any question about the dynamics of the system.  The course is called Linear Systems because for an expert, this is a course on dynamic systems, but constrained only to include the linear ones.  So at the undergrad level, every engineer considers every dynamic thing to be linear.  In the real world, we either build our systems to behave in a linear way, operate the systems in the linear range, or we establish some assumptions so the nonlinear system is assumed mathematically to be linear, and then separately account for differences between our assumed model and the real nonlinear one.
+
+There is a sizeable project for this course included in the "notebook" PDF.  There you'll find the report which demonstrates a full process of modeling and working with an example of a dynamic system, extracting key information, and further generating simulations of the behavior of this system using matlab & simulink.  These effectively give a predictive model so if you know that a user pushes on the machine with force, what will be the motion, position, velocity, etc for this system at any following moment in time.  That is pretty powerful, so this course is one that became 100x enhanced when desktop computers entered the world and ordinary engineers could derive heaps of knowledge if they so desire, for moving systems.
+
+* [ME211 Linear Systems Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME211_LinearSystemsBinder.pdf)
+* [ME211 Linear Systems Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME211_LinearSystemsNotes.pdf)
+
+![course for linear systems img1](img/course_linearsystems.jpg)
+
 ## ME219-Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
 
