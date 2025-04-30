@@ -68,6 +68,10 @@ There is a sizeable project for this course included in the "notebook" PDF.  The
 
 ![course for linear systems img1](img/course_linearsystems.jpg)
 
+## ME213-Machine-Dynamics
+
+April 30 ► the 2 binders are posted under /docs in this github repo!  Description & image summaries coming next...
+
 ## ME219-Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
 
