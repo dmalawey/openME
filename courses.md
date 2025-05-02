@@ -69,8 +69,19 @@ There is a sizeable project for this course included in the "notebook" PDF.  The
 ![course for linear systems img1](img/course_linearsystems.jpg)
 
 ## ME213-Machine-Dynamics
+Machine Dynamics covers the mathematical analysis of performance in moving machines, or elements inside of moving machines.  It includes balance of rotating components, gear ratios, inertias, and practical physics within moving machinery. One third of this course is dedicated to four-bar linkages which actually cover a vast array of assemblies in the world where motion is constrained into one degree of freedom, with 3 moving parts.  Reverse engineering a four-bar linkage yields information such as the force available at any point inside of the linkages of a pair of vice grips, or the acceleration rate of a piston given a motion input on a connected link.  Four bar linkages ought to have a cooler name that describes it as a huge, generalized analytical tool that simplifies thousands of contraptions and enables engineers to make extremely precise movements and force out of a machine design, almost like magic.  Many mechanical engineering tools are just faster ways to get to the same results as ancient tradesmen could get, but this particular course has topics that are far outside of my "intuitive" space - without calculating, most people would have no chance of coming close to a useful result in machine dynamics problems.  
 
-April 30 ► the 2 binders are posted under /docs in this github repo!  Description & image summaries coming next...
+Binders were posted April 30, 2025.  Also, see the third PDF which includes several sets of software scripts that work in Matlab.  This is the first course that required use of computers as the calculator to generate solutions.  The skill that is practiced by entering the problems into the computer is not so much "learning to code" but learning to convert a problem on paper into discrete and workable math functions that can be computed on a PC.  If you know nothing about Matlab, there is still much you can understand in reading the code in the "course_machineDynamics.pdf" file in digital computing for mechanical engineering.
+
+* [ME213 Machine Dynamics Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsBinder.pdf) 
+* [ME213 Machine Dynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsNotes.pdf)
+* [ME213 Machine Dynamics Code](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsCode.pdf)
+
+* ![machine dynamics image, gear](img/course_machineDynamics1.jpg)
+* ![machine dynamics image, shaft](img/course_machineDynamics2.jpg)
+* ![machine dynamics image, course outline](img/course_machineDynamics3.jpg)
+
+
 
 ## ME219-Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
