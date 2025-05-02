@@ -11,3 +11,8 @@ For this thesis on micro-satellite design, I applied existing graduate level eng
 - ![img_thesis1.jpg](img/img_thesis1.jpg)
 - ![img_thesis2.jpg](img/img_thesis2.jpg)
 - ![img_thesis3.jpg](img/img_thesis3.jpg)
+
+### Presentation
+The below video is my thesis presentation, with a few professors called the "advising committee" who are the audience and the evaluators for a successful thesis defense.  I recorded this meeting together with the screen on my laptop, and you can hear the dialogue at the end of the video with some questions from the committee.
+
+<iframe width="700" src="https://www.youtube.com/embed/XbSdwpLa4j4?si=Zgwt0q-5nCF2nQpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
