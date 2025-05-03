@@ -11,6 +11,14 @@ Why? I have never yet found a full mechanical engineering degree online, complet
 
 The more I learn about engineers in society, it seems their strongest hesitations to make improvements relate to the fear of messing up.  But I messed up a lot.  So, perhaps this repository can stand as encouragement.  I earned summa cum laude but at the time it did not seem like I was good enough.  It came as a surprise with the final GPA and it almost felt like some professors had maybe bumped up my grades due to effort.  I might never know.  But effort is important.
 
+>
+> Join our [DISCORD](discord.gg/Napn9mhd43)
+>
+> _Collaborate in realtime with an open community._
+>
+>🙂
+>
+
 ## Motivation
 
 Lenonardo Davinci was a mechanical engineer among other things.  This webpage has several reasons to exist, but one is to spread the power of a great mind.  You can indisbutably learn enough using only this webpage, to understand the full body of inventions of Leonardo Da Vinci and this understanding is a source of untold power.  Over time I discovered it to be more and more rare for an engineer, with or without a degree, to have this understanding.   Attached below is a nicely compressed copy of Davinci's works at only 30MB.
