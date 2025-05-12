@@ -19,6 +19,11 @@ The more I learn about engineers in society, it seems their strongest hesitation
 >🙂
 >
 
+The image below represents all of the files as of 2025.05, on my hard drive. I am about halfway done with consolidating the work.  Each colored element is one file sized by file size including scanned works, pdf slides from courses, sections of textbooks distributed as reference data, or presentations made in powerpoint for class presentations.  Once it is done being consolidated there should be only 2 to 4 pdf documents per course.  You can produce an image like this one using [WinDirStat](https://windirstat.net/), a light application for windows directory statistics.
+
+![diagram for all documents by windirstat](img/img_directories.jpg)
+
+
 ## Motivation
 
 Lenonardo Davinci was a mechanical engineer among other things.  This webpage has several reasons to exist, but one is to spread the power of a great mind.  You can indisbutably learn enough using only this webpage, to understand the full body of inventions of Leonardo Da Vinci and this understanding is a source of untold power.  Over time I discovered it to be more and more rare for an engineer, with or without a degree, to have this understanding.   Attached below is a nicely compressed copy of Davinci's works at only 30MB.
