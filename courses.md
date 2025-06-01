@@ -91,6 +91,7 @@ Thermodynamics is about energy.  We use thermo to measure, compute, control the 
 Get the binders for thermodynamics here:
 * [ME219 Thermodynamics Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Binder.pdf) 
 * [ME219 Thermodynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Notes.pdf)
+* [ME219 Thermodynamics Book](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Book.pdf)
 
 ## ME221-Applied-Thermo
 Applied thermo, for mechanical engineers, is where we learn how a combustion engine works, at last.  It covers the energy movement and theoretical limits of real-world engine designs based on the energy inputs and outputs plus the processes being performed in the cycle.  If you have heard of a Stirling cycle, Rankine cycle, or Diesel cycle, these originated with the theory of thermodynamics applied to combustion cycles in order to collect energy, torque, and efficiency out of real machines.  I did not love this course as much as I anticipated all my life, mostly because it was incredibly hard but it does feel great to know the physical rules that engines follow, anywhere in the universe.   The binder is broken into 2 parts to keep the PDF's under 25MB, and store locally on github.
