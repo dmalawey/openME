@@ -104,6 +104,19 @@ Download PDFs for Applied Thermo
 ![image for applied thermo](img/course_appliedThermo.jpg)
 
 
+## ME225-Heat-Transfer
+Heat Transfer is one of the most intensive courses in mechanical engineering.  The topic simply answers questions about "where does heat move?" and it is unique from Thermodynamics.  Thermodynamics tells where energy moves while heat transfer tells where it will move when the energy is in the form of Heat.  So these topics overlap but Heat Transfer problems are more "applied" than thermodynamics problems.  For a given solution, we input more information about a physical materials performing conduction, conditions of air or gasses performing convection, and conditions of lenses interacting with radiative heat wich can pass through materials & travel at the speed of light.  The good news is this information unveils all of the characteristics in our machines which manipulate the heat transfer scenarios and the bad news is the mathematics become heavy very quickly.  Gaining this knowledge conceptually gives an engineer the ability to manipulate plates, fans, engines, etc to make the heat move as we need it to move.
+
+Download PDFs for Applied Thermo
+* [ME225 Heat Transfer Binder1](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME225_HeatTransfer_Binder1.pdf)
+* [ME225 Heat Transfer Binder2](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME221_HeatTransfer_Binder2.pdf) 
+* coming soon: course slides, project reports, & Materials
+
+- ![image, heat transfer problem](img/course_heatTransfer1.jpg)
+- ![image, heat transfer graph](img/course_heatTransfer2.jpg)
+
+
+
 ## ME240-Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
 * Get [instrumentation slides, 42mb, 13 lessons](https://lobfile.com/file/SQ8Dhsza.zip)
