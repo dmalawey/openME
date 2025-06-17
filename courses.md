@@ -110,7 +110,8 @@ Heat Transfer is one of the most intensive courses in mechanical engineering.  T
 Download PDFs for Heat Transfer
 * [ME225 Heat Transfer Binder1](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME225_HeatTransfer_Binder1.pdf)
 * [ME225 Heat Transfer Binder2](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME221_HeatTransfer_Binder2.pdf) 
-* coming soon: course slides, project reports, & Materials
+* [ME225 Heat Transfer Materials](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME221_HeatTransfer_Materials.pdf)
+  * including: course slides, project reports, & professor's example problems
 
 - ![image, heat transfer problem](img/course_heatTransfer1.jpg)
 - ![image, heat transfer graph](img/course_heatTransfer2.jpg)
