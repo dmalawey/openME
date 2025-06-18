@@ -127,8 +127,8 @@ Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a
 ## ME231-Fluids
 Fluids, short for "thermofluid mechanics" introduces the formulas we use to estimate pressures and flows, and energy movement in flowing fluid systems.  Fluids covers enclosed systems like pipes, as well as open systems like an airfoil.  (an airfoil is just a fancy word for the wing of an airplane or the blade of a propeller.)  Fluids is one of the most abstracted and challenging courses from my undergrad degree, mainly because fluids are highly unconstrained and chaotic.  This leads to engineering calculations that are largely estimates rather than concrete results, as one finds in kinematics or dynamics (where notably, the materials are estimated as point-masses).  Fluids not only covers movement of fluid but also movement of heat, which can easily cause a fluid to change volume, speed, direction, and so on.  When fluids are compressible such as air, they are treated with one set of strategies.  Incompressible fluids like water are treated differently, and mixed fluids are just difficult.  Many engineers have earned their PhDs with their entire body of research dedicated to measuring fluids.  Perhaps the best takeaway from this course is to get an understanding of what assumptions can be safely made in various fluid-dynamics problems we face.  With those assumptions we can simplify the problem, plug in a formula, and get a meaningful result.
 
-* [fluids binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME231_fluidsBinder.pdf)
-* (fluids notebook coming soon)
+* [ME231 Fluids Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME231_fluidsBinder.pdf)
+* [ME231 Fluids Notes](https://github.com/dmalawey/openME/blob/1c49f194f3277d092546f93ded9dad98e6f2bbc4/docs/ME231_fluidsNotes.pdf)
 
 ![table of variables for fluids course](img/course_fluids.jpg)
 
