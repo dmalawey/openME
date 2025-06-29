@@ -1,10 +1,11 @@
 Graduate level contents for Mechanical Engineering
+
 ## ME689-Optimization
 
 This course is for multidisciplinary system design and optimization, MSADO.  It's also called MDO for short.  Now that we reached a time in history when each system in a machine can be individually modeled for performance and key parameters, those models can be combined to be co-optimized.  A refined optimization for "fuel economy" of a vehicle for example will have tradeoffs and so the whole mission requires further ways to compare the possibilities and interprete them.  The Pareto Front is one thematic result of this course where a set of solutions presents the engineer with several options that each have optimality for one metric but have varying tradeoffs along another metric.  The pareto front can be represented on a 2-axis plot.   I'll adjust this description over time as I get more contents posted and for today I'll post the sets of slides from this course (June 29, 2025 DM)
 
 * get [ME689_Optimization_Slides set 1](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME689_Lectures_L1-9.pdf)
-* get [ME689 Optimization Slides set 2](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME689_Lectures_L10-17.pdf)
+* get ME689 Optimization Slides set 2, coming soon...
 
 ## Thesis
 A thesis is a core requirement of a Master of Science in engineering, for all ABET-accredited programs to my knowledge.  About half of the efforts of a masters degree is in coursework while the other half is in research efforts, and the thesis is the culmination of the research. The thesis for an MS degree is analogous to the Dissertation of a doctoral degree, but usually smaller and less intensive.
