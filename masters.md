@@ -12,6 +12,12 @@ For the course project we apply all of the necessary optimization tools to a rea
 * get [Project_Slides](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME689_ProjectSlides.pdf)
 * get ME689_Optimization_Binder (coming soon)
 
+## ESET219 Digital Electronics
+This course is a fundamental topic from Electronic Systems Engineering Technology as of 2016 instructed by Dr. Joseph Morgan at that time.  This is an undergrad level course but since it was outside of mechanical engineering it populated a huge gap in my knowledge of electronics design, critical for implementing modern control systems, evaluating mechatronics systems, and designing digital interfaces for mechanical processes. I included this course as an elective in my Masters and it's perhaps the highest impact-per-effort course to couple with a Mechanical Engineering background.  I would say to convert a mechanical engineer into a mechatronics engineer, this course carries you halfway there.
+
+* [download ESET219_DigitalElectronics_Notebook PDF-4.7MB](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ESET219_DigitalElectronics_Notebook.pdf)
+* [Mechanical Design & Optimization of a Standardized Cubesat, PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/thesis_malawey_2016.05.pdf)
+
 ## Thesis
 A thesis is a core requirement of a Master of Science in engineering, for all ABET-accredited programs to my knowledge.  About half of the efforts of a masters degree is in coursework while the other half is in research efforts, and the thesis is the culmination of the research. The thesis for an MS degree is analogous to the Dissertation of a doctoral degree, but usually smaller and less intensive.
 
