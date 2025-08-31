@@ -17,8 +17,8 @@ This course is a fundamental topic from Electronic Systems Engineering Technolog
 
 * [download ESET219_DigitalElectronics_Binder PDF-4.7MB](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ESET219_DigitalElectronics_Binder.pdf)
 
-- ![course project, eset](course_eset219_project.jpg)
-- ![course topics, eset](course_eset219_topics.jpg)
+- ![course project, eset](img/course_eset219_project.jpg)
+- ![course topics, eset](img/course_eset219_topics.jpg)
 
 ## Thesis
 A thesis is a core requirement of a Master of Science in engineering, for all ABET-accredited programs to my knowledge.  About half of the efforts of a masters degree is in coursework while the other half is in research efforts, and the thesis is the culmination of the research. The thesis for an MS degree is analogous to the Dissertation of a doctoral degree, but usually smaller and less intensive.
