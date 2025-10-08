@@ -37,7 +37,7 @@ Download Statics Content
 ![statics preview image](img/course_ide50.jpg)
 
 ## ME160-Dynamics
-Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.
+Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.  An extension of the dynamic lessons in physics and a precursor to the more focused "Machine Dynamics."  This is the course which converts an apparatus into a model, then into mathematical equation, then makes it ready to manipulate computationally.
 
 Download the binders for dynamics here:
 * [ME160 BINDER](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME160_Dynamics_Binder.pdf)
@@ -48,11 +48,11 @@ Thumbnails for Dynamics content
 - ![me160 thumbnail](img/course_dynamics2.jpg)
 
 ## ME208-Machine_Design
-Machine Design is an application of prerequisite topics like statics, free body motion, and heavy geometry, towards assemblies that put the physics to work.
+Machine Design is likely the broadest course in mechanical engineering, having a texbook called "Mechanical Engineering Design" with somewhat of a survey of traditional machinery - gears, bearings, tolerancing, lubrication, screws, joints, and basically everything that sits in the common area between an engineer and a machinist. Not to be confused with Machine Dynamics, which is more math intensive and theoretical. This course is an application of prerequisite topics like statics, free body motion, and heavy geometry, towards assemblies that put the physics to work. I imagine this course was the all-encompassing description of a mechanical engineer in the 1600's before we analyzed fluids, thermodynamics, heat transfer, and time-dependent systems like dynamic controllers.
 
-Download the binders for machine design here:
-* [ME160 BINDER](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_binder.pdf)
-* [ME160 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_notes.pdf)
+* Textbook ► Mechanical Engineering Designs by Budynas & Nisbett, 10th edition
+* Download [ME160 BINDER](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_binder.pdf)
+* Download [ME160 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_notes.pdf)
 
 Thumbnails for Machine Design content:
 -![course for machine design img1](img/course_machinedesign1.jpg)
@@ -62,6 +62,7 @@ Thumbnails for Machine Design content:
 This course as a precursor to control of dynamic systems.  It's full title could be _modeling and analysis of dynamic linear systems_ wherein we take a machine (or theoretical machine), isolate a moving subsystem.  That moving system consists of nothing more than spring + mass + damper, or for electrical systems it is resistance, capacitance, and inductance.  Now the system is mathematically described, and then we have a model.  From the math model, we can derive some basic characteristics such as the frequency of oscillations, and a few more key metrics.  Further analysis can be made from that set of equations to ask any question about the dynamics of the system.  The course is called Linear Systems because for an expert, this is a course on dynamic systems, but constrained only to include the linear ones.  So at the undergrad level, every engineer considers every dynamic thing to be linear.  In the real world, we either build our systems to behave in a linear way, operate the systems in the linear range, or we establish some assumptions so the nonlinear system is assumed mathematically to be linear, and then separately account for differences between our assumed model and the real nonlinear one.
 
 There is a sizeable project for this course included in the "notebook" PDF.  There you'll find the report which demonstrates a full process of modeling and working with an example of a dynamic system, extracting key information, and further generating simulations of the behavior of this system using matlab & simulink.  These effectively give a predictive model so if you know that a user pushes on the machine with force, what will be the motion, position, velocity, etc for this system at any following moment in time.  That is pretty powerful, so this course is one that became 100x enhanced when desktop computers entered the world and ordinary engineers could derive heaps of knowledge if they so desire, for moving systems.
+
 
 * [ME211 Linear Systems Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME211_LinearSystemsBinder.pdf)
 * [ME211 Linear Systems Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME211_LinearSystemsNotes.pdf)
@@ -73,6 +74,7 @@ Machine Dynamics covers the mathematical analysis of performance in moving machi
 
 Binders were posted April 30, 2025.  Also, see the third PDF which includes several sets of software scripts that work in Matlab.  This is the first course that required use of computers as the calculator to generate solutions.  The skill that is practiced by entering the problems into the computer is not so much "learning to code" but learning to convert a problem on paper into discrete and workable math functions that can be computed on a PC.  If you know nothing about Matlab, there is still much you can understand in reading the code in the "course_machineDynamics.pdf" file in digital computing for mechanical engineering.
 
+* Textbook ► Design of Machinery by Norton, 4th Edition 
 * [ME213 Machine Dynamics Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsBinder.pdf) 
 * [ME213 Machine Dynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsNotes.pdf)
 * [ME213 Machine Dynamics Code](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsCode.pdf)
@@ -115,8 +117,6 @@ Download PDFs for Heat Transfer
 
 - ![image, heat transfer problem](img/course_heatTransfer1.jpg)
 - ![image, heat transfer graph](img/course_heatTransfer2.jpg)
-
-
 
 ## ME240-Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
