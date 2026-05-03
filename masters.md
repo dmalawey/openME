@@ -13,7 +13,7 @@ If you pass this course you're equipped to build a boston dynamics robot but not
 
 - ![img childs' textbook](img/ME613_textbook.jpg)
 - ![image boston dynamics atlas](img/ME613_atlas.jpg)
-- ![image toyota Miro robot](img/ME613_Miro.jpg)
+- ![image toyota Miro robot](img/ME613_miro.jpg)
 
 
 ## ME689-Optimization
