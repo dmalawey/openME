@@ -1,4 +1,20 @@
 Graduate level contents for Mechanical Engineering
+## ME613 Dynamics
+This is the graduate-level course sister to the undergraduate-level dynamics course which all mechanical engineers take.  It covers seemingly simple topics such as planar kinematics (motion in 2D without forces and mass), including motion of rolling and jointed mechanisms.  It includes conversion of problems into computer codes for students to run simulation or complex computations on the computer using Matlab (the most famous software for engineers).  The course finishes with a complete "developing the equations of motion for rigid body systems" so at last we are computing multiple bodies, with interacting relationships, having mass, and in planar and 3D spaces. This course involves fancy tricks like creating new coordinate systems that are non-body-fixed, meaning the math is performed with the perspective of coordinates that are redefined (ie, the shocks on your bike computed from the ground can inform forces to build a ramp, rather than computing it from the fixed frame of the bicycle.)
+
+Having this course makes it obvious that Boston dynamics is performing elementary engineering tasks, the same we would expect to see before humans ever reached the moon.  Notice the severe limitation of this material that all of the bodies are still theoretical, rigid parts with no flexure.  That means if you build a robot and you want to compute it's motion with basic mathematics, you'll spend huge sums of money to buy exotic stiff materials and lightweighting by heavy CNC carving.  You'd reduce mass sufficiently that each body has little inertia, so that each body can remain rigid enough to make all the dynamics computations without requiring knowledge of bending conditions, thermal stresses, or any characteristics that change throughout time. The human arm has ligaments that stretch during the pitch of a baseball while a rudimetary robot has no elongation of any members.  And the robot would not handle flexible materials, only those estimated as point masses.
+
+* get dynamics notebook
+* get dynamics lecture slides
+* get dynamics matlab guide
+* get dynamics lecture notes, the slides complemented with my notes.
+
+If you pass this course you're equipped to build a boston dynamics robot but not the Toyota's Miro, which handles a flexible basketball that interacts with air and rotating inertias to dribble and land a freethrow.  In the photos from left: a snip of the textbook cover, the robot that can be built with the course knowledge, and a more advanced robot which requires more sophisticated dynamics.
+
+- ![img childstextbook](img/ME213textbook.jpg)
+- ![image boston dynamics atlas](img/ME213_atlas.jpg)
+- ![image toyota Miro robot](img/ME213_Miro.jpg)
+
 
 ## ME689-Optimization
 
