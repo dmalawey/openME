@@ -11,9 +11,9 @@ Having this course makes it obvious that Boston dynamics is performing elementar
 
 If you pass this course you're equipped to build a boston dynamics robot but not the Toyota's Miro, which handles a flexible basketball that interacts with air and rotating inertias to dribble and land a freethrow.  In the photos from left: a snip of the textbook cover, the robot that can be built with the course knowledge, and a more advanced robot which requires more sophisticated dynamics.
 
-- ![img childstextbook](img/ME213textbook.jpg)
-- ![image boston dynamics atlas](img/ME213_atlas.jpg)
-- ![image toyota Miro robot](img/ME213_Miro.jpg)
+- ![img childs' textbook](img/ME613_textbook.jpg)
+- ![image boston dynamics atlas](img/ME613_atlas.jpg)
+- ![image toyota Miro robot](img/ME613_Miro.jpg)
 
 
 ## ME689-Optimization
