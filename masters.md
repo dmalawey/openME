@@ -28,6 +28,25 @@ ME632 included a final project made of a design of a hooklift trailer assembly -
 - ![img2 cad](img/ME632_project2.jpg)
 - ![img3 cad](img/ME632_project3.jpg)
 
+## ME667 Mechatronics
+Mechatronics at graduate level was the most intensive course in my life.  I think it's a whole bachelor's degree of knowledge in one course, with a professor who earned his PhD at MIT (massachussets).  A great professor, Dr. Won-Jong Kim truly wished to transmit the full mechatronics core knowledge to us.  I could hardly list here what is included.  Digital logic, the architecture of a microcontroller, conversion of signals to digital signals, binary & hexadeciaml number systems, and tons more.  After about 6 weeks of lectures he announced "now you know how to build a computer from scratch" and he was not exaggerating - we even learned about the silicon NPN junctions that live inside the field effect transistors that make up all the embedded circuits in your life.
+
+As of May 2026, the binder is still getting compressed as best as I can, around 36MB and 300 pages, with a whole folder of Lab files, each with directories of software files and more - they include programming in the C language, so by this time in my career I had learned the basics of the following languages and had mastered none of them: 
+* Matlab
+* C
+* C++
+* Python
+* HTML
+* CSS
+and still more to come later, such as Markdown, Javascript, and bits of others as needed. So as a mechanical engineer I've begun understanding that software is a utility we use in engineering just like math, and that every engineer doing modern work is also a software engineer.  I should note this course was **the key to understanding digital control systems** for the first time.  I can say with certainty most of my peers, 95 of 100, finished a bachelor's degree without having any clue how to directly implement a control system on their own.  Thats because the modern controllers are digital, we were not equipped with understanding digital computations, yet we all took Controls courses in our senior year which was the culmination of almost all the mech-eng topics.  Devise a machine, put the machine into motion, measure the machine, balance a machine movement with the process required, and finally set the machine to control itself!  That's controls.  But I could not perform this until I went back to grad school, found this course, and passed it.
+
+_Downloads that are ready for this course include the following_
+* Get the [ME667 Labs PDF] containing lab summaries, reports, and softare scripts
+* Get the [ME667 resources PDF](docs/ME667_resources.pdf) with the course handouts & scanned notes on those.
+* Get the [ME667 homeworks PDF](docs/ME667_homeworks.pdf) with graded homeworks, nicely organized
+
+- ![image, with lab circuit](img/ME66_circuit.jpg)
+  
 ## ME689-Optimization
 
 This course is for multidisciplinary system design and optimization, MSADO.  It's also called MDO for short.  Now that we reached a time in history when each system in a machine can be individually modeled for performance and key parameters, those models can be combined to be co-optimized.  A refined optimization for "fuel economy" of a vehicle for example will have tradeoffs and so the whole mission requires further ways to compare the possibilities and interprete them.  The Pareto Front is one thematic result of this course where a set of solutions presents the engineer with several options that each have optimality for one metric but have varying tradeoffs along another metric.  The pareto front can be represented on a 2-axis plot.   I'll adjust this description over time as I get more contents posted and for today I'll post the sets of slides from this course (June 29, 2025 DM)
