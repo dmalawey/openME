@@ -47,7 +47,7 @@ _Downloads that are ready for this course include the following_
 
 - ![image, with lab circuit](img/ME667_circuit.jpg)
 - ![image, with book cover](img/ME667_textbook.jpg)
-- ![image, with lab chart](img/ME667_labchart.jpg)
+- ![image, with lab chart](img/ME667_labChart.jpg)
 
 ## ME689-Optimization
 
