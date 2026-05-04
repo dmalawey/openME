@@ -46,7 +46,9 @@ _Downloads that are ready for this course include the following_
 * Get the [ME667 homeworks PDF](docs/ME667_homeworks.pdf) with graded homeworks, nicely organized
 
 - ![image, with lab circuit](img/ME667_circuit.jpg)
-  
+- ![image, with book cover](img/ME667_textbook.jpg)
+- ![image, with lab chart](img/ME667_labchart.jpg)
+
 ## ME689-Optimization
 
 This course is for multidisciplinary system design and optimization, MSADO.  It's also called MDO for short.  Now that we reached a time in history when each system in a machine can be individually modeled for performance and key parameters, those models can be combined to be co-optimized.  A refined optimization for "fuel economy" of a vehicle for example will have tradeoffs and so the whole mission requires further ways to compare the possibilities and interprete them.  The Pareto Front is one thematic result of this course where a set of solutions presents the engineer with several options that each have optimality for one metric but have varying tradeoffs along another metric.  The pareto front can be represented on a 2-axis plot.   I'll adjust this description over time as I get more contents posted and for today I'll post the sets of slides from this course (June 29, 2025 DM)
