@@ -45,7 +45,7 @@ _Downloads that are ready for this course include the following_
 * Get the [ME667 resources PDF](docs/ME667_resources.pdf) with the course handouts & scanned notes on those.
 * Get the [ME667 homeworks PDF](docs/ME667_homeworks.pdf) with graded homeworks, nicely organized
 
-- ![image, with lab circuit](img/ME66_circuit.jpg)
+- ![image, with lab circuit](img/ME667_circuit.jpg)
   
 ## ME689-Optimization
 
