@@ -15,6 +15,18 @@ If you pass this course you're equipped to build a boston dynamics robot but not
 - ![image boston dynamics atlas](img/ME613_atlas.jpg)
 - ![image toyota Miro robot](img/ME613_miro.jpg)
 
+## ME632 CAD modeling
+The cad modeling course is dual-listed, meaning the same material covers an undergraduate and graduate level course offering.  Sometimes dual-listed courses are challenging for undergrads, but this one was easy and truly required no graduate-level engineering.  I enrolled because I wanted experience with CAD modeling in Solidworks, and the instructor was a business owner who manufactured heavy metal assemblies, mainly for the oil-and-gas customers.  Because of this, the focal manufacturign method was sheet-metal as were the selected simulation lessons and fabrication tools we learned - sheet metal bending and drawing was included.  It also included learnign basic static load simulations.  Other CAD courses might cover fluid flow simulations, pressure chambers, or vibration analysis.  Note that simulation is a whole field of actions relating to CAD modeling - they are not central to CAD modeling per se, but Solidworks does offer toolboxes for these areas.  In the general public, each CAD software has different strengths.  Without simulation, they are faily equal in performance.  Once you couple simulation to the CAD effort then the softwares differ widely and users will find there is a "best choice" for each field of work.
+
+ME632 included a final project made of a design of a hooklift trailer assembly - a machine on the back of a truck that offloads or onloads a utility dumpster.   So, my team of three performed a design of the main features, pivoting geometry, and piston configuration for the hooklift system, evaluated strength with FEA simulation, and reported on the performance of the design.  The students submitted real CAD files in their assignments so these CAD files are retained and available for me to post.  I hope to post those when I find the best way to hold larger (>25mb) files and folders.  (Github is not best for large file storage).
+
+* Get [ME632 binder PDF](docs/ME632_ProjectReport.pdf) containing syllabus, some lecture notes, and homeworks.
+* Get [ME632 Project Report PDF](docs/ME632_noebook.pdf) with three parts: project report, presentation slides, and practice presentation slides.
+* Get **Design files** later once I can post them.
+
+- ![img1 cad](img/ME632_project1.jpg)
+- ![img2 cad](img/ME632_project2.jpg)
+- ![img3 cad](img/ME632_project3.jpg)
 
 ## ME689-Optimization
 
