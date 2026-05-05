@@ -75,6 +75,8 @@ This course is a fundamental topic from Electronic Systems Engineering Technolog
 
 * [download ESET219_DigitalElectronics_Binder PDF-4.7MB](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ESET219_DigitalElectronics_Binder.pdf)
 
+_Images from eset219: a project where I attempted control of the satellite rotation using two small DC fans, a graphical list of some main topics, and the hands-on lab for comparators using FPGA.  The FPGA lab is fantastic because we can see a digital implementation of directly-programmed digital logic, on a real circuit, where the configuration is made by DIP switches.  This is my first time handling an FPGA (though a very simplified one)._
+
 - ![course project, eset](img/course_eset219_project.jpg)
 - ![course topics, eset](img/course_eset219_topics.jpg)
 - ![comparator lab setup](img/course_eset219_comparator.jpg)
