@@ -155,6 +155,10 @@ Advanced Product Design is an elective course and frankly branches quite far out
 
 * get [ME357 Project PDF 5.5MB](docs/ME357_project.pdf)
 * get [ME357 Slides, 5.3MB](docs/ME357_slides.pdf)
+* get **Project video: focus group** soon to come
+* get **final project files** in editable format, soon
+
+_This course description was posted May 2026, and the photos and final content will be added next._
 
 
 ## EE281-Circuits
