@@ -4,7 +4,9 @@ _Note by DM: this folder is second priority comapred with the Undergrad contents
 
 As for the data provided in this section: See the image below of the data midway through consolidation.  Some bulky files need compression still to fit in the 25mb criteria, some tiny files must be combined, and some non-readable files like software scripts and matlab files need to be made readable and recompiled.  This note updated 2026.05.05 DM.
 
-![image of folder chart 2026.05](img/gradData.jpg)
+- ![image of folder chart 2026.05](img/gradData1.jpg)
+- ![data folders](img/gradData2.jpg)
+- ![data filetypes](img/gradData3.jpg)
 
 ## ME613 Dynamics
 This is the graduate-level course sister to the undergraduate-level dynamics course which all mechanical engineers take.  It covers seemingly simple topics such as planar kinematics (motion in 2D without forces and mass), including motion of rolling and jointed mechanisms.  It includes conversion of problems into computer codes for students to run simulation or complex computations on the computer using Matlab (the most famous software for engineers).  The course finishes with a complete "developing the equations of motion for rigid body systems" so at last we are computing multiple bodies, with interacting relationships, having mass, and in planar and 3D spaces. This course involves fancy tricks like creating new coordinate systems that are non-body-fixed, meaning the math is performed with the perspective of coordinates that are redefined (ie, the shocks on your bike computed from the ground can inform forces to build a ramp, rather than computing it from the fixed frame of the bicycle.)
