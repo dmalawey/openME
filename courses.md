@@ -1,9 +1,13 @@
 **Courses:** Mechanical Engineering Courses, organized by course curriculums.
 
+## Intro
+
 _note: engineering knowledge is not fundamentally divided into these topics such as statics and dynamics. But in education and science, we assign these categories of engineering topics that are fairly recognized around the world.  Each individual course may also correspond to a specialty that characterizes an entire lifelong career of an expert in the field._
 
-## Outline
-![courses summary image](img/img_degreePlan.jpg)
+**Outline**
+- ![courses summary image](img/img_degreePlan.jpg)
+- ![course contents on my drive](img/chart_contents.jpg)
+- ![course filetypes](img/chart_filetypes.jpg)
 _snapshot of the degree plan for mechanical engineer_
 
 Download the PDF course outline. (as of Feb 2025, just 1 page) This is a placeholder for a more thorough document that explains a bit about syllabi of each course, together with the degree plan.
