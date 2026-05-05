@@ -128,6 +128,20 @@ Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a
 
 ![instrumentation image](img/course_instrumentation.jpg)
 
+## ME242_Systems
+This course was the most 'experiential' of my UG courses having a hands-on project that was more effort than my senior design project in the following semester.  The course includes content that comes from the ME240-Instrumentation lectures and applies them in functional systems.  The labs include a thermal evaluation of aluminum cooling fins including a thermocouple and a heat source, a dynamic balancing of a mass on a shaft with measurement of vibrations, and a pump experiment with different water pump types and measurements of the characteristics of flow.  The biggest effort in the course consisted of a team project with three ME's and a self-designed experiment.  My team built a water manifold with one main outlet and a series of small nozzles where water exits.  This project aimed to demonstrate bernouli's principle which relates the water's velocity and it's pressure.  Given a fixed flow rate and an inlet pressure, we can analyze our way through the flow path until the end.  The sites with high velocity should have lower pressure while the sites with lower flow velocity should have higher pressure.  That relationship means a water manifold may have uneven distribution of outlet flow and it has impacts in a sprinkler system, for example.  The project concept was praised by the professor but we ultimately had weak precision in the manufacturing of our manifold that led to scattered results in the data. Writing this summary in 2026, I think I'd still like to rebuild this setup and make it work properly! Reach out if you want to build it together.
+
+* get [ME242 photos PDF](https://github.com/dmalawey/openME/blob/aa9f42b210a62554ad6fa5d6cacc2b26ba3b94ad/docs/ME242_photos.pdf) containing peer's poster displays and construction of team project.
+* get [ME242 binder 4.5MB](https://github.com/dmalawey/openME/blob/f640212d79b21b1b31ba003772a97baa73e6dadd/docs/ME242_binder.pdf) containing the syllabus, course notes & graded labs
+* get [ME242 labs PDF 9.3MB](docs/abc) containing four main labs reports and experimental requirements. **upload-in-progress**
+* get [ME242 poster PDF 1.6MB](DOCS/ABC) with a high resolution poster layout from my team project. **upload-in-progress**
+
+_Below, see a snapshot of our poster presentation, one of 5 equations pages for the course overall, and my peers Jonathan and Chris Hillebrenner measuring water jets in our team project._
+
+- ![img pump trial](img/me242_poster.jpg)
+- ![img pump poster](img/me242_equations.jpg)
+- ![img pump poster2](img/me242_build.jpg)
+
 ## ME231-Fluids
 Fluids, short for "thermofluid mechanics" introduces the formulas we use to estimate pressures and flows, and energy movement in flowing fluid systems.  Fluids covers enclosed systems like pipes, as well as open systems like an airfoil.  (an airfoil is just a fancy word for the wing of an airplane or the blade of a propeller.)  Fluids is one of the most abstracted and challenging courses from my undergrad degree, mainly because fluids are highly unconstrained and chaotic.  This leads to engineering calculations that are largely estimates rather than concrete results, as one finds in kinematics or dynamics (where notably, the materials are estimated as point-masses).  Fluids not only covers movement of fluid but also movement of heat, which can easily cause a fluid to change volume, speed, direction, and so on.  When fluids are compressible such as air, they are treated with one set of strategies.  Incompressible fluids like water are treated differently, and mixed fluids are just difficult.  Many engineers have earned their PhDs with their entire body of research dedicated to measuring fluids.  Perhaps the best takeaway from this course is to get an understanding of what assumptions can be safely made in various fluid-dynamics problems we face.  With those assumptions we can simplify the problem, plug in a formula, and get a meaningful result.
 
