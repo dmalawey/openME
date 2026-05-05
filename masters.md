@@ -4,10 +4,10 @@ This is the graduate-level course sister to the undergraduate-level dynamics cou
 
 Having this course makes it obvious that Boston dynamics is performing elementary engineering tasks, the same we would expect to see before humans ever reached the moon.  Notice the severe limitation of this material that all of the bodies are still theoretical, rigid parts with no flexure.  That means if you build a robot and you want to compute it's motion with basic mathematics, you'll spend huge sums of money to buy exotic stiff materials and lightweighting by heavy CNC carving.  You'd reduce mass sufficiently that each body has little inertia, so that each body can remain rigid enough to make all the dynamics computations without requiring knowledge of bending conditions, thermal stresses, or any characteristics that change throughout time. The human arm has ligaments that stretch during the pitch of a baseball while a rudimetary robot has no elongation of any members.  And the robot would not handle flexible materials, only those estimated as point masses.
 
-* get [dynamics notebook](docs/ME613_Notebook.pdf) with syllabus, exams, and homeworks
-* get [dynamics lecture slides](docs/ME613_LectureSlides.pdf) with the provided slides for the course
-* get [dynamics matlab guide](docs/ME613_MatlabGuide.pdf) which is a whole printed text for implementing dynamics in matlab
-* get [dynamics lecture notes](docs/ME613_LectureNotes.pdf), the slides complemented with my notes
+* get [dynamics notebook](https://github.com/dmalawey/openME/blob/09677f8a571ef348861ae6314c6be9ce0ae10df0/docs/ME613_Notebook.pdf) with syllabus, exams, and homeworks
+* get [dynamics lecture slides](https://github.com/dmalawey/openME/blob/09677f8a571ef348861ae6314c6be9ce0ae10df0/docs/ME613_LectureSlides.pdf) with the provided slides for the course
+* get [dynamics matlab guide](https://github.com/dmalawey/openME/blob/09677f8a571ef348861ae6314c6be9ce0ae10df0/docs/ME613_MatlabGuide.pdf) which is a whole printed text for implementing dynamics in matlab
+* get [dynamics lecture notes](https://github.com/dmalawey/openME/blob/09677f8a571ef348861ae6314c6be9ce0ae10df0/docs/ME613_LectureNotes.pdf), the slides complemented with my notes
 
 If you pass this course you're equipped to build a boston dynamics robot but not the Toyota's Miro, which handles a flexible basketball that interacts with air and rotating inertias to dribble and land a freethrow.  In the photos from left: a snip of the textbook cover, the robot that can be built with the course knowledge, and a more advanced robot which requires more sophisticated dynamics.
 
