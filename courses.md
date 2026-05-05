@@ -13,8 +13,8 @@ _snapshot of the degree plan for mechanical engineer_
 Download the PDF course outline. (as of Feb 2025, just 1 page) This is a placeholder for a more thorough document that explains a bit about syllabi of each course, together with the degree plan.
 * [Mechanical Degree Plan PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2008_ME_degreePlan.pdf)
 
-## IDE110-Mechanics of Materials
-Mechanics of Materials applies physics to physical materials.  Deformation, bending, loads, strain, yield strength, elastic modulus, are concepts put to work in Mechanics of Materials.  IDE stands for interdisciplinary engineering, and this course is assigned to IDE because several curriculums stand on mechanics, such as Structural Engineering, Mechanical Engineering, Aerospace Engineering, Civil Engineering, and so-on.  IDE110 was the course title (with 3 credit hours) and IDE120 was the lab title (an additional 1 or 2 credit hours, with one long meeting per week and a report following).
+## IDE110 Mechanics of Materials
+**Mechanics of Materials applies physics to physical materials.**  Deformation, bending, loads, strain, yield strength, elastic modulus, are concepts put to work in Mechanics of Materials.  IDE stands for interdisciplinary engineering, and this course is assigned to IDE because several curriculums stand on mechanics, such as Structural Engineering, Mechanical Engineering, Aerospace Engineering, Civil Engineering, and so-on.  IDE110 was the course title (with 3 credit hours) and IDE120 was the lab title (an additional 1 or 2 credit hours, with one long meeting per week and a report following).
 
 - ![mech mat lecture outline](img/course_ide110.jpg)
 - ![mechmat snippet](img/course_ide120.jpg)
@@ -23,7 +23,7 @@ Download the labs for mechanics of materials here:
 * [IDE110 Notebook](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE110_Mechanics_Notes.pdf)
 * [IDE120 Lab Reports](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE120_labs.pdf)
 
-## MATH210-Calculus
+## MATH210 Calculus
 The binder covers Calculus I, II, and III.  In reality, my math courses were complete chaos.  Back in high school, I missed out on calculus and took some hands-on electives instead, like pottery. Ultimately I enrolled at 3 different college campuses to catch up.   I wish my advisor would have urged me to enroll in calculus at the time I informed her I wished to become an engineer.  So in the summer after freshman year of college, I took calc-1 at saint louis community college back home, while working my lawncare business for cash.  Then during sophomore year, I took accelerated calc 2 and calc3 at the community college, which were compressed into 10 weeks each instead of an ordinary 5-month semester.  I became progressively more confused in each course, with a miserably dull & heartless professor about age 99.  It was solid 3-hour lectures starting at 7pm, and I wore out pencils scribbling away to keep pace with the whiteboard in hopes to study after class.  Everything moved way too fast as I tried to catch up my math to the pace of the ME degree.  (calc II is a prerequisite for almost all core courses).  By graduation, I couldn't even tell you which topics belong in which calculus course.  It was all a total blurr.
 
 Download Calculus I, II, III binder
@@ -31,7 +31,7 @@ Download Calculus I, II, III binder
 
 ![math outline image](img/course_math210.jpg)
 
-## ME50-Statics
+## ME50 Statics
 Statics applies physics of forces, mass, friction, and geometry to physical designs to evaluate static forces (non-moving).  It is the key principal for structures and also for dynamic items during their static states, like a parked car. This course was actually called IDE50, in interdisciplinary department because it serves all engineering majors. 
 
 Download Statics Content
@@ -40,7 +40,7 @@ Download Statics Content
 
 ![statics preview image](img/course_ide50.jpg)
 
-## ME160-Dynamics
+## ME160 Dynamics
 Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.  An extension of the dynamic lessons in physics and a precursor to the more focused "Machine Dynamics."  This is the course which converts an apparatus into a model, then into mathematical equation, then makes it ready to manipulate computationally.
 
 Download the binders for dynamics here:
@@ -51,7 +51,7 @@ Thumbnails for Dynamics content
 - ![me160 thumbnail](img/course_dynamics1.jpg)
 - ![me160 thumbnail](img/course_dynamics2.jpg)
 
-## ME208-Machine_Design
+## ME208 Machine Design
 Machine Design is likely the broadest course in mechanical engineering, having a texbook called "Mechanical Engineering Design" with somewhat of a survey of traditional machinery - gears, bearings, tolerancing, lubrication, screws, joints, and basically everything that sits in the common area between an engineer and a machinist. Not to be confused with Machine Dynamics, which is more math intensive and theoretical. This course is an application of prerequisite topics like statics, free body motion, and heavy geometry, towards assemblies that put the physics to work. I imagine this course was the all-encompassing description of a mechanical engineer in the 1600's before we analyzed fluids, thermodynamics, heat transfer, and time-dependent systems like dynamic controllers.
 
 * Textbook ► Mechanical Engineering Designs by Budynas & Nisbett, 10th edition
@@ -62,7 +62,7 @@ Thumbnails for Machine Design content:
 -![course for machine design img1](img/course_machinedesign1.jpg)
 -![course for machine design img2](img/course_machinedesign2.jpg)
 
-## ME211-Linear-Systems
+## ME211 Linear Systems
 This course as a precursor to control of dynamic systems.  It's full title could be _modeling and analysis of dynamic linear systems_ wherein we take a machine (or theoretical machine), isolate a moving subsystem.  That moving system consists of nothing more than spring + mass + damper, or for electrical systems it is resistance, capacitance, and inductance.  Now the system is mathematically described, and then we have a model.  From the math model, we can derive some basic characteristics such as the frequency of oscillations, and a few more key metrics.  Further analysis can be made from that set of equations to ask any question about the dynamics of the system.  The course is called Linear Systems because for an expert, this is a course on dynamic systems, but constrained only to include the linear ones.  So at the undergrad level, every engineer considers every dynamic thing to be linear.  In the real world, we either build our systems to behave in a linear way, operate the systems in the linear range, or we establish some assumptions so the nonlinear system is assumed mathematically to be linear, and then separately account for differences between our assumed model and the real nonlinear one.
 
 There is a sizeable project for this course included in the "notebook" PDF.  There you'll find the report which demonstrates a full process of modeling and working with an example of a dynamic system, extracting key information, and further generating simulations of the behavior of this system using matlab & simulink.  These effectively give a predictive model so if you know that a user pushes on the machine with force, what will be the motion, position, velocity, etc for this system at any following moment in time.  That is pretty powerful, so this course is one that became 100x enhanced when desktop computers entered the world and ordinary engineers could derive heaps of knowledge if they so desire, for moving systems.
@@ -73,7 +73,7 @@ There is a sizeable project for this course included in the "notebook" PDF.  The
 
 ![course for linear systems img1](img/course_linearsystems.jpg)
 
-## ME213-Machine-Dynamics
+## ME213 Machine Dynamics
 Machine Dynamics covers the mathematical analysis of performance in moving machines, or elements inside of moving machines.  It includes balance of rotating components, gear ratios, inertias, and practical physics within moving machinery. One third of this course is dedicated to four-bar linkages which actually cover a vast array of assemblies in the world where motion is constrained into one degree of freedom, with 3 moving parts.  Reverse engineering a four-bar linkage yields information such as the force available at any point inside of the linkages of a pair of vice grips, or the acceleration rate of a piston given a motion input on a connected link.  Four bar linkages ought to have a cooler name that describes it as a huge, generalized analytical tool that simplifies thousands of contraptions and enables engineers to make extremely precise movements and force out of a machine design, almost like magic.  Many mechanical engineering tools are just faster ways to get to the same results as ancient tradesmen could get, but this particular course has topics that are far outside of my "intuitive" space - without calculating, most people would have no chance of coming close to a useful result in machine dynamics problems.  
 
 Binders were posted April 30, 2025.  Also, see the third PDF which includes several sets of software scripts that work in Matlab.  This is the first course that required use of computers as the calculator to generate solutions.  The skill that is practiced by entering the problems into the computer is not so much "learning to code" but learning to convert a problem on paper into discrete and workable math functions that can be computed on a PC.  If you know nothing about Matlab, there is still much you can understand in reading the code in the "course_machineDynamics.pdf" file in digital computing for mechanical engineering.
@@ -89,7 +89,7 @@ Binders were posted April 30, 2025.  Also, see the third PDF which includes seve
 
 
 
-## ME219-Thermodynamics
+## ME219 Thermodynamics
 Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
 
 ![thermo snippet](img/course_me219.jpg)
@@ -99,7 +99,7 @@ Get the binders for thermodynamics here:
 * [ME219 Thermodynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Notes.pdf)
 * [ME219 Thermodynamics Book](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Book.pdf)
 
-## ME221-Applied-Thermo
+## ME221 Applied Thermo
 Applied thermo, for mechanical engineers, is where we learn how a combustion engine works, at last.  It covers the energy movement and theoretical limits of real-world engine designs based on the energy inputs and outputs plus the processes being performed in the cycle.  If you have heard of a Stirling cycle, Rankine cycle, or Diesel cycle, these originated with the theory of thermodynamics applied to combustion cycles in order to collect energy, torque, and efficiency out of real machines.  I did not love this course as much as I anticipated all my life, mostly because it was incredibly hard but it does feel great to know the physical rules that engines follow, anywhere in the universe.   The binder is broken into 2 parts to keep the PDF's under 25MB, and store locally on github.
 
 Download PDFs for Applied Thermo
@@ -110,7 +110,7 @@ Download PDFs for Applied Thermo
 ![image for applied thermo](img/course_appliedThermo.jpg)
 
 
-## ME225-Heat-Transfer
+## ME225 Heat Transfer
 Heat Transfer is one of the most intensive courses in mechanical engineering.  The topic simply answers questions about "where does heat move?" and it is unique from Thermodynamics.  Thermodynamics asks _where does the energy move?_ while Heat Transfer asks _where does the heat move?_  So, these topics overlap but Heat Transfer problems are more "applied" than thermodynamics problems.  For a given solution, we input more information about a physical materials performing conduction, conditions of air or gasses performing convection, and conditions of lenses interacting with radiative heat wich can pass through materials & travel at the speed of light.  The good news is this information unveils all of the characteristics in our machines which manipulate the heat transfer scenarios and the bad news is the mathematics become heavy very quickly.  Gaining this knowledge conceptually gives an engineer the ability to manipulate plates, fans, engines, fluids, and reservoirs to make the heat move where we need it.
 
 Download PDFs for Heat Transfer
@@ -122,13 +122,13 @@ Download PDFs for Heat Transfer
 - ![image, heat transfer problem](img/course_heatTransfer1.jpg)
 - ![image, heat transfer graph](img/course_heatTransfer2.jpg)
 
-## ME240-Instrumentation
+## ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
 * Get [instrumentation slides, 42mb, 13 lessons](https://lobfile.com/file/SQ8Dhsza.zip)
 
 ![instrumentation image](img/course_instrumentation.jpg)
 
-## ME242_Systems
+## ME242 Systems
 This course was the most 'experiential' of my UG courses having a hands-on project that was more effort than my senior design project in the following semester.  The course includes content that comes from the ME240-Instrumentation lectures and applies them in functional systems.  The labs include a thermal evaluation of aluminum cooling fins including a thermocouple and a heat source, a dynamic balancing of a mass on a shaft with measurement of vibrations, and a pump experiment with different water pump types and measurements of the characteristics of flow.  The biggest effort in the course consisted of a team project with three ME's and a self-designed experiment.  My team built a water manifold with one main outlet and a series of small nozzles where water exits.  This project aimed to demonstrate bernouli's principle which relates the water's velocity and it's pressure.  Given a fixed flow rate and an inlet pressure, we can analyze our way through the flow path until the end.  The sites with high velocity should have lower pressure while the sites with lower flow velocity should have higher pressure.  That relationship means a water manifold may have uneven distribution of outlet flow and it has impacts in a sprinkler system, for example.  The project concept was praised by the professor but we ultimately had weak precision in the manufacturing of our manifold that led to scattered results in the data. Writing this summary in 2026, I think I'd still like to rebuild this setup and make it work properly! Reach out if you want to build it together.
 
 * get [ME242 photos PDF](https://github.com/dmalawey/openME/blob/aa9f42b210a62554ad6fa5d6cacc2b26ba3b94ad/docs/ME242_photos.pdf) containing peer's poster displays and construction of team project.
@@ -142,13 +142,20 @@ _Below, see a snapshot of our poster presentation, one of 5 equations pages for 
 - ![img pump poster](img/me242_equations.jpg)
 - ![img pump poster2](img/me242_build.jpg)
 
-## ME231-Fluids
+## ME231 Fluids
 Fluids, short for "thermofluid mechanics" introduces the formulas we use to estimate pressures and flows, and energy movement in flowing fluid systems.  Fluids covers enclosed systems like pipes, as well as open systems like an airfoil.  (an airfoil is just a fancy word for the wing of an airplane or the blade of a propeller.)  Fluids is one of the most abstracted and challenging courses from my undergrad degree, mainly because fluids are highly unconstrained and chaotic.  This leads to engineering calculations that are largely estimates rather than concrete results, as one finds in kinematics or dynamics (where notably, the materials are estimated as point-masses).  Fluids not only covers movement of fluid but also movement of heat, which can easily cause a fluid to change volume, speed, direction, and so on.  When fluids are compressible such as air, they are treated with one set of strategies.  Incompressible fluids like water are treated differently, and mixed fluids are just difficult.  Many engineers have earned their PhDs with their entire body of research dedicated to measuring fluids.  Perhaps the best takeaway from this course is to get an understanding of what assumptions can be safely made in various fluid-dynamics problems we face.  With those assumptions we can simplify the problem, plug in a formula, and get a meaningful result.
 
 * [ME231 Fluids Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME231_fluidsBinder.pdf)
 * [ME231 Fluids Notes](https://github.com/dmalawey/openME/blob/1c49f194f3277d092546f93ded9dad98e6f2bbc4/docs/ME231_fluidsNotes.pdf)
 
 ![table of variables for fluids course](img/course_fluids.jpg)
+
+## ME357 Product Design
+Advanced Product Design is an elective course and frankly branches quite far out from mechanical engineering.  I enrolled without hesitation because I saw myself as a future entrepreneur and creator of new products or businesses.  While it has low intensity for math and science, it has high intensity for hands-on efforts.  The team project spanned about 75% of the semester and each assignment covered a module that would contribute towards the final project.  The course architecture is quite nice and I appreciate Dr. Grantham developing the course this way.  Compared with others, this course material is more interesting to review as an outsider, as the project modules and assignments are all applied to a real development effort and the reader can see how the concepts are applied.  You might enjoy discovering how we developed the "Bad Axe", a multitool type of survival product that includes a crank-type flashlight for producing energy without batteries and of course a big axe to defend yourself from zombies and so forth. 
+
+* get [ME357 Project PDF 5.5MB](docs/ME357_project.pdf)
+* get [ME357 Slides, 5.3MB](docs/ME357_slides.pdf)
+
 
 ## EE281-Circuits
 Circuits is an electrical engineering course, required for Mechanical Engineers (and most other engineering degrees since 2000) to offer a foundation of electrical engineering knowledge.  The concepts cover evaluation and design of electrical circuits with resistors, capacitors, and inductors.  Every electrical element can be characterized with those 3 characteristics.  With this course, you can measure the current through a circuit or branch, the power consumed by a load, the energy stored in capacitors or inductors.  We also cover AC circuit basics (alternating current), and the dynamic behaviors at an introductory level.  Compared to my peers who took an Electrical Engineering degree program, this is about half of the level of depth studied for the bachelors in EE.
