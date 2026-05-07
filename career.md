@@ -8,15 +8,16 @@ Since 2009 was a post-catastrophic automotive period, production was slow and ch
 
 They essentially gave me a problem that is not likely to see a solution that year but has sufficient complexity to fulfill a study and an **A3 Problem Solving report** Across the whole world, Toyota's engineers use this method and this template to solve problems, gather inputs, and report solutions and plans to managers.  
 
-* Download the [A3 Problem Solving Guide PDF](docs/toyota_A3guide.pdf)
-* Download the [A3 Template XLS](docs/toyota_A3guide.xlsx)
-* Download [my internship A3 PDF](docs/toyota_A3malawey.pdf) with the example problem for stamping press broken down
-* Download [my A3 Problem-solving spreadsheet in XLS format](docs/toyota_A3malawey.xlsx)
+* Download the [A3 Problem Solving Guide PDF](https://github.com/dmalawey/openME/blob/eb561d1ff8efc1e03184a2f776718231e73f2461/docs/toyota_A3guide.pdf) with graphics and template. 
+* Download the [A3 Template XLS](https://github.com/dmalawey/openME/blob/eb561d1ff8efc1e03184a2f776718231e73f2461/docs/toyota_A3guide.xlsx) with core template in Excel.
+* Download [my internship A3 PDF](https://github.com/dmalawey/openME/blob/eb561d1ff8efc1e03184a2f776718231e73f2461/docs/toyota_A3malawey.pdf) with my problem-solving report.
+* Download [my A3 Problem-solving spreadsheet in XLS format](https://github.com/dmalawey/openME/blob/eb561d1ff8efc1e03184a2f776718231e73f2461/docs/toyota_A3malawey.xlsx), an improved excel template.
 
+_Below, see a snippet from Toyota's problem solving guide, and two snippets from my problem solving report._
 - ![snipped problem solving guide](img/toyotaPSG.jpg)
 - ![my problem report 1](img/toyotaIntern1.jpg)
 - ![my prblem report 2](img/toyotaIntern2.jpg)
-  
+
 ## Automotive
 Automotive study, for a mechanical engineer or others who love car design.  Download my binder from 2009.
 
