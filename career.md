@@ -13,7 +13,7 @@ They essentially gave me a problem that is not likely to see a solution that yea
 * Download [my internship A3 PDF](docs/toyota_A3malawey.pdf) with the example problem for stamping press broken down
 * Download [my A3 Problem-solving spreadsheet in XLS format](docs/toyota_A3malawey.xlsx)
 
-- ![snipped problem solving guide](img/toyota_psg.jpg)
+- ![snipped problem solving guide](img/toyotaPSG.jpg)
 - ![my problem report 1](img/toyotaIntern1.jpg)
 - ![my prblem report 2](img/toyotaIntern2.jpg)
   
