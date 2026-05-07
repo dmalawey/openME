@@ -1,6 +1,22 @@
 ## About
 This section is for engineering topics outside of school.  Career is the best word I can use for right now.  Perhaps it will include internships, projects, and extracurricular team efforts that center on engineering.  If I were to give guidance to an aspiring engineer, such guidance would be incomplete without these discussions.  So, expect to find contents about jobs and also things that are not jobs but essential pieces of an engineering career.
 
+## Intern-Level
+Find here some compiled outputs from my internship experience.  From many elements, the most valuable takeaway from my first internship was the introduction to problem-solving with a defined methodology.  My first internship placed me in the stamping department of Toyota's georgetown plant, TMMK or Toyota Motor Manufacturing Kentucky.  My stamping team would be categorized as a team of **Manufacutring Engineering** and the job of the engineers was to get huge machines installed, running, calibrated, then to have the machines serviced, maintained, adjusted, and made to be safe - all in an ongoing timeline for a whole array of machines that turn sheet metal into car parts.  In a typical vehicle, the automaker does not make steel but performs all of the value add between the steel and the vehicle at the dealership.  The biggest value add is in the stamping plant where the world's largest stamping press machines make a series of operations: forming, cutting, trimming, further forming. 
+
+Since 2009 was a post-catastrophic automotive period, production was slow and changes were high.  Slow times are when the engineers try to implement the upgrades that can't be executed while all the machines are building cars.  That's the same time when engineers ask the interns to step aside so they can get work done uninterrupted.  Bummer.  I received a problem exercise from my manager Doug, to solve a long-term problem with our largest presses.  The load-measuring system was not accurate.  Imagine 50,000 pounds of force between two massive metal dies that need to clench like a jaw within a fractin of a milimeter, so the steel forms like it should.  It's like operating a kitchen knife to peel back a cell membrane - big challenge.  So, we rely on strain measurements that check the stress on the huge vertical columns that connect the upper and lower frames of the stamping press, and then compute meaning from it beyond the noise, cross-talk, and offsets from all the masses and vibrations.
+
+They essentially gave me a problem that is not likely to see a solution that year but has sufficient complexity to fulfill a study and an **A3 Problem Solving report** Across the whole world, Toyota's engineers use this method and this template to solve problems, gather inputs, and report solutions and plans to managers.  
+
+* Download the [A3 Problem Solving Guide PDF](docs/toyota_A3guide.pdf)
+* Download the [A3 Template XLS](docs/toyota_A3guide.xlsx)
+* Download [my internship A3 PDF](docs/toyota_A3malawey.pdf) with the example problem for stamping press broken down
+* Download [my A3 Problem-solving spreadsheet in XLS format](docs/toyota_A3malawey.xlsx)
+
+- ![snipped problem solving guide](img/toyota_psg.jpg)
+- ![my problem report 1](img/toyotaIntern1.jpg)
+- ![my prblem report 2](img/toyotaIntern2.jpg)
+  
 ## Automotive
 Automotive study, for a mechanical engineer or others who love car design.  Download my binder from 2009.
 
