@@ -23,7 +23,9 @@ Automotive study, for a mechanical engineer or others who love car design.  Down
 
 * [Automotive Study Binder PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2009_Automotive_Binder.pdf)
 
-![automotive binder preview](img/img_autoStudy.jpg)
+- ![automotive binder preview](img/img_autoStudy.jpg)
+- ![engine assembly line](img/toyota_engine.jpg)
+- ![placeholder](img/placeholder.jpg)
 
 ## Best Practices
 A section for best practices collected from world-class engineering teams.  Timeless is the key.  These items may look old and its because they have worked for decades and have not expired.
