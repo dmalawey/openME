@@ -23,6 +23,7 @@ Automotive study, for a mechanical engineer or others who love car design.  Down
 
 * [Automotive Study Binder PDF](https://raw.githubusercontent.com/dmalawey/openME/main/docs/2009_Automotive_Binder.pdf)
 
+_Below, a snip from my automotive study binder posted above.  Next, a camry engine on the assembly line at TMMK (from 2013 as a full-timer). Lastly, a photo of part of the stamping area inside of the plant from an online video.  It's difficult to get photos and footage in this plant as photography is not allowed._
 - ![automotive binder preview](img/img_autoStudy.jpg)
 - ![engine assembly line](img/toyota_engine.jpg)
 - ![placeholder](img/placeholder.jpg)
