@@ -51,6 +51,11 @@ Thumbnails for Dynamics content
 - ![me160 thumbnail](img/course_dynamics1.jpg)
 - ![me160 thumbnail](img/course_dynamics2.jpg)
 
+## ME161 Intro to Design
+This is the main design course for mechanical engineers and it introduces general strategies for producing designs such as House of Quality, Pugh Charts, and exercises for documenting the progress of a design.  Academically it is a low-intensity course and does not rely on prerequisite knowledge to a large degree (such as math, physics, materials).  This course formed around a challenge statement to devise a robot that can climb stairs.  Strictly speaking, we designed and built a machine but not exactly a robot.  I've included my course binder that contains several drafts of project reporting, but unfortunately I am missing the syllabus or other administrative records for it.  If this same course were executed having an experienced designer as the instructor or a dedicated set of prototyping materials I think the course could be more rigorous and leave the students with knowledge they could not discover outside of the university.
+
+* Download the [ME161 Course Binder PDF](https://github.com/dmalawey/openME/blob/73e6a259d3fd1b04ebab44194cad09e5aab2cae7/docs/ME161_IntroToDesign_Binder.pdf) with 73 pages and many photos & diagrams
+
 ## ME208 Machine Design
 Machine Design is likely the broadest course in mechanical engineering, having a texbook called "Mechanical Engineering Design" with somewhat of a survey of traditional machinery - gears, bearings, tolerancing, lubrication, screws, joints, and basically everything that sits in the common area between an engineer and a machinist. Not to be confused with Machine Dynamics, which is more math intensive and theoretical. This course is an application of prerequisite topics like statics, free body motion, and heavy geometry, towards assemblies that put the physics to work. I imagine this course was the all-encompassing description of a mechanical engineer in the 1600's before we analyzed fluids, thermodynamics, heat transfer, and time-dependent systems like dynamic controllers.
 
