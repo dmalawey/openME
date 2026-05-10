@@ -153,7 +153,9 @@ Fluids, short for "thermofluid mechanics" introduces the formulas we use to esti
 * [ME231 Fluids Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME231_fluidsBinder.pdf)
 * [ME231 Fluids Notes](https://github.com/dmalawey/openME/blob/1c49f194f3277d092546f93ded9dad98e6f2bbc4/docs/ME231_fluidsNotes.pdf)
 
-![table of variables for fluids course](img/course_fluids.jpg)
+- ![table of variables for fluids course](img/course_fluids.jpg)
+- ![textbook coverpage frank white](img/course_fluidsText.jpg)
+- ![placeholder image](img/placeholder.jpg)
 
 ## ME357 Product Design
 Advanced Product Design is an elective course and frankly branches quite far out from mechanical engineering.  I enrolled without hesitation because I saw myself as a future entrepreneur and creator of new products or businesses.  While it has low intensity for math and science, it has high intensity for hands-on efforts.  The team project spanned about 75% of the semester and each assignment covered a module that would contribute towards the final project.  The course architecture is quite nice and I appreciate Dr. Grantham developing the course this way.  Compared with others, this course material is more interesting to review as an outsider, as the project modules and assignments are all applied to a real development effort and the reader can see how the concepts are applied.  You might enjoy discovering how we developed the "Bad Axe", a multitool type of survival product that includes a crank-type flashlight for producing energy without batteries and of course a big axe to defend yourself from zombies and so forth. 
