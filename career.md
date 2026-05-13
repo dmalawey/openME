@@ -18,6 +18,9 @@ _Below, see a snippet from Toyota's problem solving guide, and two snippets from
 - ![my problem report 1](img/toyotaIntern1.jpg)
 - ![my prblem report 2](img/toyotaIntern2.jpg)
 
+## Mentorships
+_2026.05 This is my reminder to break down two or three mentorships that played a key role in my career development.  You cannot succeed without mentors.  These are people who graciously offer time and interaction while you are self-developing, and while the mentor has traveled paths you want to take.  With unlimited things to learn, the mentor aids in your selection of targets. With unlimited possible mistakes, the mentor highlights pitfalls so you mustn't face all of them. And without a map of the trail ahead, the mentor helps paint a picture of what your trail might look like. In the early stage, one mentor is sufficient. At age ten, I could find one man who has done everything I'll be doing in my eleventh year of life. Later, mentorship must break into segments. One person who can guide me in entrepreneurship, one who can guide me in engineering skills, one who knows about Latin America where I would spend time. Eventually, if you improve yourself in an ongoing way, you'll find nobody who has ever explored the place you will explore tomorrow. At that stage you are on your own in many ways.  Hopefully I can express some of my specific experiences and generalize how it works.  Where can you find a mentor? How do you know when you need one? What difference does it make if you have a mentor or not?_
+
 ## Automotive
 Automotive study, for a mechanical engineer or others who love car design.  Download my binder from 2009.
 
