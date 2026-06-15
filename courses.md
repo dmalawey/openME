@@ -32,13 +32,15 @@ Download Calculus I, II, III binder
 ![math outline image](img/course_math210.jpg)
 
 ## ME50 Statics
-Statics applies physics of forces, mass, friction, and geometry to physical designs to evaluate static forces (non-moving).  It is the key principal for structures and also for dynamic items during their static states, like a parked car. This course was actually called IDE50, in interdisciplinary department because it serves all engineering majors. 
+Statics applies physics of forces, mass, friction, and geometry to physical designs to evaluate static forces (non-moving).  It is the key principal for structures and also for dynamic items during their static states, like a parked car. This course was actually called IDE50, in interdisciplinary department because it serves all engineering majors. Once you know statics, you can compute forces within structures, beams, joints, and elements of any form.  We can then apply estimates like the wind force on a building or the mass of people on a bridge to define the strength & size of structural members in a design.
 
 Download Statics Content
 * [IDE50 Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE50_StaticsBinder.pdf)
 * [IDE50 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/IDE50_StaticsNotes.pdf)
 
-![statics preview image](img/course_ide50.jpg)
+- ![statics book](img/course_statics1.jpg)
+- ![statics problem example](img/course_statics2.jpg)
+- ![statics preview image](img/course_ide50.jpg)
 
 ## ME160 Dynamics
 Dynamics is physics applied to moving bodies.  Compute linear and rotating masses, forces, accelerations, and stored energy for machines.  An extension of the dynamic lessons in physics and a precursor to the more focused "Machine Dynamics."  This is the course which converts an apparatus into a model, then into mathematical equation, then makes it ready to manipulate computationally.
