@@ -88,9 +88,9 @@ Binders were posted April 30, 2025.  Also, see the third PDF which includes seve
 * [ME213 Machine Dynamics Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsNotes.pdf)
 * [ME213 Machine Dynamics Code](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME213_MachineDynamicsCode.pdf)
 
-* ![machine dynamics image, gear](img/course_machineDynamics1.jpg)
-* ![machine dynamics image, shaft](img/course_machineDynamics2.jpg)
-* ![machine dynamics image, course outline](img/course_machineDynamics3.jpg)
+- ![machine dynamics image, gear](img/course_machineDynamics1.jpg)
+- ![machine dynamics image, shaft](img/course_machineDynamics2.jpg)
+- ![machine dynamics image, course outline](img/course_machineDynamics3.jpg)
 
 
 
