@@ -95,9 +95,11 @@ Binders were posted April 30, 2025.  Also, see the third PDF which includes seve
 
 
 ## ME219 Thermodynamics
-Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.
+Thermodynamics is about energy.  We use thermo to measure, compute, control the flow of energy in various states.  Energy, heat, light, sound, flow, compression, waves, are all fundamentally energy and they follow the laws of thermodynamics.  Most of the coursework consists of understanding a problem in text, converting this into a workable system, and then applying equations based on the laws of thermodynamics to solve for an energy balance.  The questions consist of quantified measures like "how much energy must go into a driveshaft which is doing this work on an airflow? What is the change in entropy in a given closed system under this compression?  In the advancement of a designer from creating a mechanism to then creating machines that move energy,  we need to know rates of energy change that become specifications:  the wall thickness of a reservoir.  The strength of a connecting rod.  The size of an air inlet on an intake valve.  Those are the decisions a machinist can only make arbitrarily but an engineer can make through computation, once he/she has thermodynamics knowledge.
 
-![thermo snippet](img/course_me219.jpg)
+- ![thermo textbook cover](img/course_thermo1.jpg)
+- ![thermodynamics entropy](img/course_thermo2.jpg)
+- ![thermo problems graphics](img/course_thermo3.jpg)
 
 Get the binders for thermodynamics here:
 * [ME219 Thermodynamics Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME219_Thermo_Binder.pdf) 
