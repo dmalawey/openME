@@ -185,3 +185,9 @@ Circuits is an electrical engineering course, required for Mechanical Engineers 
 * [EE281 Circuits Practice](https://raw.githubusercontent.com/dmalawey/openME/main/docs/EE281_CircuitsPractice.pdf)
 
 ![circuits snippet](img/course_circuits.jpg)
+
+## EMGT137-EngManagement
+This course was offered from the department of Engineering Management which is a whole separate department in the university from Mechanical Engineering.  The inclusion in the ME degree is intended to deliver an introduction to the concepts of Engineering Project Management to the engineers, with an overview type of course.  Just like the engineering courses this course requires applied mathematics in every chapter, but it tends to be lower-level math.  One exciting thing I learned is that MS Excel has many built-in computations for management work like the calculation of loan payments and net-present-value and depreciation of equipment.  This knowledge serves to satisfy the financial, accounting, and legal requirements of an engineering project and to allow engineers to speak the language of accounting just enough that we won't be oblivious.  It's a very important course if you wish to become an entrepreneur or join a consulting team as the budgeting of cashflows and exchange of resources between businenesses will require this knowledge.
+
+* Get [Engineering Management Binder PDF](https://github.com/dmalawey/openME/blob/28c72b282a28da602fdf644deeb2a869305fa3fa/docs/EMGT137_EngManagementBinder.pdf)
+* Next, I'll review the course and add links to relevant online resources.
