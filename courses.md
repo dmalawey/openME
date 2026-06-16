@@ -69,8 +69,9 @@ Machine Design is likely the broadest course in mechanical engineering, having a
 * Download [ME160 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME208_machine_design_notes.pdf)
 
 Thumbnails for Machine Design content:
--![course for machine design img1](img/course_machinedesign1.jpg)
--![course for machine design img2](img/course_machinedesign2.jpg)
+- ![course for machine design img1](img/course_machinedesign1.jpg)
+- ![course for machine design img2](img/course_machinedesign2.jpg)
+- ![placeholder](img/placeholder.jpg)
 
 ## ME211 Linear Systems
 This course as a precursor to control of dynamic systems.  It's full title could be _modeling and analysis of dynamic linear systems_ wherein we take a machine (or theoretical machine), isolate a moving subsystem.  That moving system consists of nothing more than spring + mass + damper, or for electrical systems it is resistance, capacitance, and inductance.  Now the system is mathematically described, and then we have a model.  From the math model, we can derive some basic characteristics such as the frequency of oscillations, and a few more key metrics.  Further analysis can be made from that set of equations to ask any question about the dynamics of the system.  The course is called Linear Systems because for an expert, this is a course on dynamic systems, but constrained only to include the linear ones.  So at the undergrad level, every engineer considers every dynamic thing to be linear.  In the real world, we either build our systems to behave in a linear way, operate the systems in the linear range, or we establish some assumptions so the nonlinear system is assumed mathematically to be linear, and then separately account for differences between our assumed model and the real nonlinear one.
@@ -133,6 +134,7 @@ Download PDFs for Heat Transfer
 
 - ![image, heat transfer problem](img/course_heatTransfer1.jpg)
 - ![image, heat transfer graph](img/course_heatTransfer2.jpg)
+- ![img placeholder](img/placeholder.jpg)
 
 ## ME240 Instrumentation
 Beginning with the best part, the powerpoint slides by Mitch Cottrell.  He was a nonprofessor teaching staff with loads of knowledge & made top notch content to teach instrumentation.  I think this was my favorite course from undergrad.
@@ -163,7 +165,7 @@ Fluids, short for "thermofluid mechanics" introduces the formulas we use to esti
 
 - ![table of variables for fluids course](img/course_fluids.jpg)
 - ![textbook coverpage frank white](img/course_fluidsText.jpg)
-- ![placeholder image](img/placeHolder.jpg)
+- ![placeholder image](img/placeholder.jpg)
 
 ## ME357 Product Design
 Advanced Product Design is an elective course and frankly branches quite far out from mechanical engineering.  I enrolled without hesitation because I saw myself as a future entrepreneur and creator of new products or businesses.  While it has low intensity for math and science, it has high intensity for hands-on efforts.  The team project spanned about 75% of the semester and each assignment covered a module that would contribute towards the final project.  The course architecture is quite nice and I appreciate Dr. Grantham developing the course this way.  Compared with others, this course material is more interesting to review as an outsider, as the project modules and assignments are all applied to a real development effort and the reader can see how the concepts are applied.  You might enjoy discovering how we developed the "Bad Axe", a multitool type of survival product that includes a crank-type flashlight for producing energy without batteries and of course a big axe to defend yourself from zombies and so forth. 
