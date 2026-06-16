@@ -52,8 +52,9 @@ Download the binders for dynamics here:
 * [ME160 NOTES](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME160_Dynamics_Notes.pdf)
 
 Thumbnails for Dynamics content
-- ![me160 thumbnail](img/course_dynamics1.jpg)
-- ![me160 thumbnail](img/course_dynamics2.jpg)
+- ![me160 course schedule, image](img/course_dynamics1.jpg)
+- ![ME160 binder photocopy](img/course_dynamics2.jpg)
+- ![me160 sample equations](img/course_dynamics3.jpg)
 
 ## ME161 Intro to Design
 This is the main design course for mechanical engineers and it introduces general strategies for producing designs such as House of Quality, Pugh Charts, and exercises for documenting the progress of a design.  Academically it is a low-intensity course and does not rely on prerequisite knowledge to a large degree (such as math, physics, materials).  This course formed around a challenge statement to devise a robot that can climb stairs.  Strictly speaking, we designed and built a machine but not exactly a robot.  I've included my course binder that contains several drafts of project reporting, but unfortunately I am missing the syllabus or other administrative records for it.  If this same course were executed having an experienced designer as the instructor or a dedicated set of prototyping materials I think the course could be more rigorous and leave the students with knowledge they could not discover outside of the university.
