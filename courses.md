@@ -82,7 +82,10 @@ There is a sizeable project for this course included in the "notebook" PDF.  The
 * [ME211 Linear Systems Binder](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME211_LinearSystemsBinder.pdf)
 * [ME211 Linear Systems Notes](https://raw.githubusercontent.com/dmalawey/openME/main/docs/ME211_LinearSystemsNotes.pdf)
 
-![course for linear systems img1](img/course_linearsystems.jpg)
+_Below, find a real photo i took during lecture!  See also the snipped syllabus page and one of my Examination Formula Sheets_
+- ![course for linear systems img1](img/course_linearsystems.jpg)
+- ![linear systems binder img](img/course_linearsystems2.jpg)
+- ![linear systems equations](img/course_linearsystems3.jpg)
 
 ## ME213 Machine Dynamics
 Machine Dynamics covers the mathematical analysis of performance in moving machines, or elements inside of moving machines.  It includes balance of rotating components, gear ratios, inertias, and practical physics within moving machinery. One third of this course is dedicated to four-bar linkages which actually cover a vast array of assemblies in the world where motion is constrained into one degree of freedom, with 3 moving parts.  Reverse engineering a four-bar linkage yields information such as the force available at any point inside of the linkages of a pair of vice grips, or the acceleration rate of a piston given a motion input on a connected link.  Four bar linkages ought to have a cooler name that describes it as a huge, generalized analytical tool that simplifies thousands of contraptions and enables engineers to make extremely precise movements and force out of a machine design, almost like magic.  Many mechanical engineering tools are just faster ways to get to the same results as ancient tradesmen could get, but this particular course has topics that are far outside of my "intuitive" space - without calculating, most people would have no chance of coming close to a useful result in machine dynamics problems.  
