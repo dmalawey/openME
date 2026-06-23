@@ -9,14 +9,12 @@ Explore this repository to learn mechanical engineering.  During 2025 I'll uploa
 
 Why? I have never yet found a full mechanical engineering degree online, complete & worked out by a human being, with all mistakes etc.  It just seems it ought to exist.  Hope this can be made useful.
 
-The more I learn about engineers in society, it seems their strongest hesitations to make improvements relate to the fear of messing up.  But I messed up a lot.  So, perhaps this repository can stand as encouragement.  I earned summa cum laude but at the time it did not seem like I was good enough.  It came as a surprise with the final GPA and it almost felt like some professors had maybe bumped up my grades due to effort.  I might never know.  But effort is important.
+The more I learn about engineers in society, it seems their strongest hesitations to make improvements relate to the fear of messing up.  But I messed up a lot.  So, perhaps this repository can stand as encouragement.  I earned Summa Cum Laude (top honors) with my degree but then, I still felt I struggled to understand everythign in so short a timespan.  It came as a surprise with the final GPA and it almost felt like some professors had maybe bumped up my grades due to effort.  I might never know.  But effort is important.
 
 >
 > Join our [DISCORD](https://discord.gg/Napn9mhd43)
 >
-> _Collaborate in realtime with an open community._
->
->🙂
+> _Collaborate in realtime with a community of leaners and designers. 🙂_
 >
 
 The image below represents all of the files as of 2025.05, on my hard drive. I am about halfway done with consolidating the work.  Each colored element is one file sized by file size including scanned works, pdf slides from courses, sections of textbooks distributed as reference data, or presentations made in powerpoint for class presentations.  Once it is done being consolidated there should be only 2 to 4 pdf documents per course.  You can produce an image like this one using [WinDirStat](https://windirstat.net/), a light application for windows directory statistics.
